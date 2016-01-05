@@ -1,35 +1,163 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+﻿<?xml version="1.0\" encoding="UTF-8" standalone="yes"?>
 <strings>
-	<string id="1050" xOff="0" yOff="0" scale="1.5" fontPixelHeight="18" english="GAME PAUSED" image="localization\18_1050.png"/>
-	<string id="1051" xOff="0" yOff="0" fontPixelHeight="12" english="CONTINUE GAME" image="localization\12_1051.png"/>
-	<string id="1052" xOff="0" yOff="0" fontPixelHeight="12" english="LEADERBOARDS" image="localization\12_1052.png"/>
-	<string id="1053" xOff="0" yOff="0" fontPixelHeight="12" english="REPLAYS" image="localization\12_1053.png"/>
-	<string id="1054" xOff="0" yOff="0" fontPixelHeight="12" english="OPTIONS" image="localization\12_1054.png"/>
-	<string id="1055" xOff="0" yOff="0" fontPixelHeight="12" english="CUSTOM MUSIC" image="localization\12_1055.png"/>
-	<string id="1056" xOff="0" yOff="0" fontPixelHeight="12" english="MODS" image="localization\12_1056.png"/>
-	<string id="1057" xOff="0" yOff="0" fontPixelHeight="12" english="QUICK RESTART" image="localization\12_1057.png"/>
-	<string id="1058" xOff="0" yOff="0" fontPixelHeight="12" english="QUIT TO LOBBY" image="localization\12_1058.png"/>
-	<string id="1059" xOff="0" yOff="0" fontPixelHeight="12" english="QUIT TO LEVEL EDITOR" image="localization\12_1059.png"/>
-	<string id="1060" xOff="0" yOff="0" fontPixelHeight="12" english="EXIT GAME" image="localization\12_1060.png"/>
-	<string id="1100" xOff="0" yOff="0" scale="1.5" fontPixelHeight="18" english="AUDIO OPTIONS" image="localization\18_1100.png"/>
-	<string id="1101" xOff="0" yOff="0" fontPixelHeight="12" english="SOUND VOLUME" image="localization\12_1101.png"/>
-	<string id="1102" xOff="0" yOff="0" fontPixelHeight="12" english="MUSIC VOLUME" image="localization\12_1102.png"/>
-	<string id="1103" xOff="0" yOff="0" fontPixelHeight="12" english="ENABLE PRE-BOSS EFFECT" image="localization\12_1103.png"/>
-	<string id="1800" xOff="0" yOff="0" scale="1.5" fontPixelHeight="18" english="GRAPHICAL OPTIONS" image="localization\18_1800.png"/>
-	<string id="1801" xOff="0" yOff="0" fontPixelHeight="12" english="FULLSCREEN" image="localization\12_1801.png"/>
-	<string id="1802" xOff="0" yOff="0" fontPixelHeight="12" english="ENABLE VSYNC" image="localization\12_1802.png"/>
-	<string id="1803" xOff="0" yOff="0" fontPixelHeight="12" english="VIEW MULTIPLIER: DEFAULT" image="localization\12_1803.png"/>
-	<string id="1804" xOff="0" yOff="0" fontPixelHeight="12" english="VIEW MULTIPLIER:" image="localization\12_1804.png"/>
-	<string id="1805" xOff="0" yOff="0" fontPixelHeight="12" english="ENABLE HUD HEART" image="localization\12_1805.png"/>
-	<string id="1806" xOff="0" yOff="0" fontPixelHeight="12" english="ENABLE HUD BEAT BARS" image="localization\12_1806.png"/>
-	<string id="1807" xOff="0" yOff="0" fontPixelHeight="12" english="ENABLE SCREEN SHAKE" image="localization\12_1807.png"/>
-	<string id="1808" xOff="0" yOff="0" fontPixelHeight="12" english="ENABLE SPEEDRUN TIMER" image="localization\12_1808.png"/>
-	<string id="1809" xOff="0" yOff="0" fontPixelHeight="12" english="ENABLE DISCO FLOOR" image="localization\12_1809.png"/>
-	<string id="1810" xOff="0" yOff="0" fontPixelHeight="12" english="ENABLE POST-DEATH REPLAY" image="localization\12_1810.png"/>
-	<string id="1811" xOff="0" yOff="0" fontPixelHeight="12" english="CHANGE RESOLUTION" image="localization\12_1811.png"/>
-	<string id="1812" xOff="0" yOff="0" fontPixelHeight="12" english="ENTER YOUR DESIRED WIDTH" image="localization\12_1812.png"/>
-	<string id="1813" xOff="0" yOff="0" fontPixelHeight="12" english="CURRENT:" image="localization\12_1813.png"/>
-	<string id="1814" xOff="0" yOff="0" fontPixelHeight="12" english="ENTER YOUR DESIRED HEIGHT" image="localization\12_1814.png"/>
-	<string id="1815" xOff="0" yOff="0" fontPixelHeight="12" english="WOULD YOU LIKE KEEP RESOLUTION" image="localization\12_1815.png"/>
-	<string id="1816" xOff="0" yOff="0" fontPixelHeight="12" english="IS NOT A VALID RESOLUTION!" image="localization\12_1816.png"/>
+<string id="id" xOff="xOff" yOff="yOff" overallYOff="overallYOff" scale="scale" fontPixelHeight="fontPixelHeight" english="english" image="8:image" selectedImage="9:selectedImage"/>
+<string id="317" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="CHAINMAIL" image="localization\6_317.png"/>
+<string id="508" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="+1 DEFENSE" image="localization\6_508.png"/>
+<string id="1001" xOff="0" yOff="0" fontPixelHeight="12" english="PREVIOUS PAGE" image="localization\12_1001.png" selectedImage="localization\selected\12_1001.png"/>
+<string id="1002" xOff="0" yOff="0" fontPixelHeight="12" english="NEXT PAGE" image="localization\12_1002.png" selectedImage="localization\selected\12_1002.png"/>
+<string id="1003" xOff="0" yOff="0" fontPixelHeight="12" english="Yes" image="localization\12_1003.png" selectedImage="localization\selected\12_1003.png"/>
+<string id="1004" xOff="0" yOff="0" fontPixelHeight="12" english="No" image="localization\12_1004.png" selectedImage="localization\selected\12_1004.png"/>
+<string id="1006" xOff="0" yOff="0" fontPixelHeight="12" english="RANDOM" image="localization\12_1006.png" selectedImage="localization\selected\12_1006.png"/>
+<string id="1007" xOff="0" yOff="0" fontPixelHeight="12" english="CANCEL" image="localization\12_1007.png" selectedImage="localization\selected\12_1007.png"/>
+<string id="1050" xOff="0" yOff="0" scale="1.5" fontPixelHeight="18" english="GAME PAUSED" image="localization\18_1050.png"/>
+<string id="1051" xOff="0" yOff="0" fontPixelHeight="12" english="CONTINUE GAME" image="localization\12_1051.png" selectedImage="localization\selected\12_1051.png"/>
+<string id="1052" xOff="0" yOff="0" fontPixelHeight="12" english="LEADERBOARDS" image="localization\12_1052.png" selectedImage="localization\selected\12_1052.png"/>
+<string id="1053" xOff="0" yOff="0" fontPixelHeight="12" english="REPLAYS" image="localization\12_1053.png" selectedImage="localization\selected\12_1053.png"/>
+<string id="1054" xOff="0" yOff="0" fontPixelHeight="12" english="OPTIONS" image="localization\12_1054.png" selectedImage="localization\selected\12_1054.png"/>
+<string id="1055" xOff="0" yOff="0" fontPixelHeight="12" english="CUSTOM MUSIC" image="localization\12_1055.png" selectedImage="localization\selected\12_1055.png"/>
+<string id="1056" xOff="0" yOff="0" fontPixelHeight="12" english="MODS" image="localization\12_1056.png" selectedImage="localization\selected\12_1056.png"/>
+<string id="1057" xOff="0" yOff="0" fontPixelHeight="12" english="QUICK RESTART" image="localization\12_1057.png" selectedImage="localization\selected\12_1057.png"/>
+<string id="1058" xOff="0" yOff="0" fontPixelHeight="12" english="QUIT TO LOBBY" image="localization\12_1058.png" selectedImage="localization\selected\12_1058.png"/>
+<string id="1059" xOff="0" yOff="0" fontPixelHeight="12" english="QUIT TO LEVEL EDITOR" image="localization\12_1059.png" selectedImage="localization\selected\12_1059.png"/>
+<string id="1060" xOff="0" yOff="0" fontPixelHeight="12" english="EXIT GAME" image="localization\12_1060.png" selectedImage="localization\selected\12_1060.png"/>
+<string id="1100" xOff="0" yOff="0" scale="1.5" fontPixelHeight="18" english="AUDIO OPTIONS" image="localization\18_1100.png"/>
+<string id="1101" xOff="0" yOff="0" fontPixelHeight="12" english="SOUND VOLUME" image="localization\12_1101.png" selectedImage="localization\selected\12_1101.png"/>
+<string id="1102" xOff="0" yOff="0" fontPixelHeight="12" english="MUSIC VOLUME" image="localization\12_1102.png" selectedImage="localization\selected\12_1102.png"/>
+<string id="1103" xOff="0" yOff="0" fontPixelHeight="12" english="ENABLE PRE-BOSS EFFECT" image="localization\12_1103.png" selectedImage="localization\selected\12_1103.png"/>
+<string id="1500" xOff="0" yOff="0" scale="1.5" fontPixelHeight="18" english="MODS" image="localization\18_1500.png"/>
+<string id="1501" xOff="0" yOff="0" fontPixelHeight="12" english="ACTIVATE MOD BY DEFAULT" image="localization\12_1501.png" selectedImage="localization\selected\12_1501.png"/>
+<string id="1502" xOff="0" yOff="0" fontPixelHeight="12" english="CHOOSE A MOD TO PUBLISH" image="localization\12_1502.png" selectedImage="localization\selected\12_1502.png"/>
+<string id="1503" xOff="0" yOff="0" fontPixelHeight="12" english="CHOOSE A MOD TO PLAY" image="localization\12_1503.png" selectedImage="localization\selected\12_1503.png"/>
+<string id="1504" xOff="0" yOff="0" fontPixelHeight="12" english="PUBLISHING..." image="localization\12_1504.png"/>
+<string id="1505" xOff="0" yOff="0" fontPixelHeight="12" english="PUBLISH MOD FAILED!" image="localization\12_1505.png"/>
+<string id="1506" xOff="0" yOff="0" fontPixelHeight="12" english="MOD PUBLISHED!" image="localization\12_1506.png"/>
+<string id="1507" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="SEE NECRODANCER.COM/WORKSHOP FOR DETAILS ON MODDING" image="localization\6_1507.png"/>
+<string id="1508" xOff="0" yOff="0" fontPixelHeight="12" english="BECAUSE THIS MOD EDITS THE NECRODANCER.XML FILE," image="localization\12_1508.png"/>
+<string id="1509" xOff="0" yOff="0" fontPixelHeight="12" english="HIGH SCORES AND ACHIEVEMENTS WILL BE DISABLED" image="localization\12_1509.png"/>
+<string id="1510" xOff="0" yOff="0" fontPixelHeight="12" english="CONTINUE?" image="localization\12_1510.png"/>
+<string id="1511" xOff="0" yOff="0" fontPixelHeight="12" english="ERROR LOADING IMAGE:" image="localization\12_1511.png"/>
+<string id="1513" xOff="0" yOff="0" fontPixelHeight="12" english="CONTACT THE MOD CREATOR FOR ASSITANCE" image="localization\12_1513.png"/>
+<string id="1514" xOff="0" yOff="0" fontPixelHeight="12" english="PLAY A MOD" image="localization\12_1514.png" selectedImage="localization\selected\12_1514.png"/>
+<string id="1515" xOff="0" yOff="0" fontPixelHeight="12" english="PUBLISH A MOD" image="localization\12_1515.png" selectedImage="localization\selected\12_1515.png"/>
+<string id="1516" xOff="0" yOff="0" fontPixelHeight="12" english="DEACTIVATE CURRENT MOD" image="localization\12_1516.png" selectedImage="localization\selected\12_1516.png"/>
+<string id="1700" xOff="0" yOff="0" scale="1.5" fontPixelHeight="18" english="CHANGE SOUNDTRACK" image="localization\18_1700.png"/>
+<string id="1800" xOff="0" yOff="0" scale="1.5" fontPixelHeight="18" english="GRAPHICAL OPTIONS" image="localization\18_1800.png"/>
+<string id="1801" xOff="0" yOff="0" fontPixelHeight="12" english="FULLSCREEN" image="localization\12_1801.png" selectedImage="localization\selected\12_1801.png"/>
+<string id="1802" xOff="0" yOff="0" fontPixelHeight="12" english="ENABLE VSYNC" image="localization\12_1802.png" selectedImage="localization\selected\12_1802.png"/>
+<string id="1803" xOff="0" yOff="0" fontPixelHeight="12" english="VIEW MULTIPLIER: DEFAULT" image="localization\12_1803.png" selectedImage="localization\selected\12_1803.png"/>
+<string id="1804" xOff="0" yOff="0" fontPixelHeight="12" english="VIEW MULTIPLIER:" image="localization\12_1804.png" selectedImage="localization\selected\12_1804.png"/>
+<string id="1805" xOff="0" yOff="0" fontPixelHeight="12" english="ENABLE HUD HEART" image="localization\12_1805.png" selectedImage="localization\selected\12_1805.png"/>
+<string id="1806" xOff="0" yOff="0" fontPixelHeight="12" english="ENABLE HUD BEAT BARS" image="localization\12_1806.png" selectedImage="localization\selected\12_1806.png"/>
+<string id="1807" xOff="0" yOff="0" fontPixelHeight="12" english="ENABLE SCREEN SHAKE" image="localization\12_1807.png" selectedImage="localization\selected\12_1807.png"/>
+<string id="1808" xOff="0" yOff="0" fontPixelHeight="12" english="ENABLE SPEEDRUN TIMER" image="localization\12_1808.png" selectedImage="localization\selected\12_1808.png"/>
+<string id="1809" xOff="0" yOff="0" fontPixelHeight="12" english="ENABLE DISCO FLOOR" image="localization\12_1809.png" selectedImage="localization\selected\12_1809.png"/>
+<string id="1810" xOff="0" yOff="0" fontPixelHeight="12" english="ENABLE POST-DEATH REPLAY" image="localization\12_1810.png" selectedImage="localization\selected\12_1810.png"/>
+<string id="1811" xOff="0" yOff="0" fontPixelHeight="12" english="CHANGE RESOLUTION" image="localization\12_1811.png" selectedImage="localization\selected\12_1811.png"/>
+<string id="1812" xOff="0" yOff="0" fontPixelHeight="12" english="ENTER YOUR DESIRED WIDTH" image="localization\12_1812.png"/>
+<string id="1813" xOff="0" yOff="0" fontPixelHeight="12" english="CURRENT:" image="localization\12_1813.png"/>
+<string id="1814" xOff="0" yOff="0" fontPixelHeight="12" english="ENTER YOUR DESIRED HEIGHT" image="localization\12_1814.png"/>
+<string id="1815" xOff="0" yOff="0" fontPixelHeight="12" english="WOULD YOU LIKE KEEP RESOLUTION" image="localization\12_1815.png"/>
+<string id="1816" xOff="0" yOff="0" fontPixelHeight="12" english="IS NOT A VALID RESOLUTION!" image="localization\12_1816.png"/>
+<string id="1900" xOff="0" yOff="0" scale="1.5" fontPixelHeight="18" english="OPTIONS" image="localization\18_1900.png"/>
+<string id="1901" xOff="0" yOff="0" fontPixelHeight="12" english="GAMEPLAY OPTIONS" image="localization\12_1901.png" selectedImage="localization\selected\12_1901.png"/>
+<string id="1902" xOff="0" yOff="0" fontPixelHeight="12" english="AUDIO OPTIONS" image="localization\12_1902.png" selectedImage="localization\selected\12_1902.png"/>
+<string id="1903" xOff="0" yOff="0" fontPixelHeight="12" english="GRAPHICAL OPTIONS" image="localization\12_1903.png" selectedImage="localization\selected\12_1903.png"/>
+<string id="1904" xOff="0" yOff="0" fontPixelHeight="12" english="REASSIGN CONTROLS" image="localization\12_1904.png" selectedImage="localization\selected\12_1904.png"/>
+<string id="1905" xOff="0" yOff="0" fontPixelHeight="12" english="LATENCY CALIBRATION" image="localization\12_1905.png" selectedImage="localization\selected\12_1905.png"/>
+<string id="1906" xOff="0" yOff="0" fontPixelHeight="12" english="CHANGE SOUNDTRACK" image="localization\12_1906.png" selectedImage="localization\selected\12_1906.png"/>
+<string id="1907" xOff="0" yOff="0" fontPixelHeight="12" english="LANGUAGE OPTIONS" image="localization\12_1907.png" selectedImage="localization\selected\12_1907.png"/>
+<string id="2000" xOff="0" yOff="0" scale="1.5" fontPixelHeight="18" english="REPLAYS (MOST RECENT AT TOP)" image="localization\18_2000.png"/>
+<string id="2001" xOff="0" yOff="0" fontPixelHeight="12" english="ZONE 1" image="localization\12_2001.png" selectedImage="localization\selected\12_2001.png"/>
+<string id="2002" xOff="0" yOff="0" fontPixelHeight="12" english="ZONE 2" image="localization\12_2002.png" selectedImage="localization\selected\12_2002.png"/>
+<string id="2003" xOff="0" yOff="0" fontPixelHeight="12" english="ZONE 3" image="localization\12_2003.png" selectedImage="localization\selected\12_2003.png"/>
+<string id="2004" xOff="0" yOff="0" fontPixelHeight="12" english="ZONE 4" image="localization\12_2004.png" selectedImage="localization\selected\12_2004.png"/>
+<string id="2005" xOff="0" yOff="0" fontPixelHeight="12" english="DANCE PAD" image="localization\12_2005.png" selectedImage="localization\selected\12_2005.png"/>
+<string id="2006" xOff="0" yOff="0" fontPixelHeight="12" english="ALL ZONES" image="localization\12_2006.png" selectedImage="localization\selected\12_2006.png"/>
+<string id="2007" xOff="0" yOff="0" fontPixelHeight="12" english="SEEDED ALL ZONES" image="localization\12_2007.png" selectedImage="localization\selected\12_2007.png"/>
+<string id="2008" xOff="0" yOff="0" scale="1.5" fontPixelHeight="18" english="DAILY" image="localization\18_2008.png" selectedImage="localization\selected\18_2008.png"/>
+<string id="2009" xOff="0" yOff="0" fontPixelHeight="12" english="JAN" image="localization\12_2009.png" selectedImage="localization\selected\12_2009.png"/>
+<string id="2010" xOff="0" yOff="0" fontPixelHeight="12" english="FEB" image="localization\12_2010.png" selectedImage="localization\selected\12_2010.png"/>
+<string id="2011" xOff="0" yOff="0" fontPixelHeight="12" english="MAR" image="localization\12_2011.png" selectedImage="localization\selected\12_2011.png"/>
+<string id="2012" xOff="0" yOff="0" fontPixelHeight="12" english="APR" image="localization\12_2012.png" selectedImage="localization\selected\12_2012.png"/>
+<string id="2013" xOff="0" yOff="0" fontPixelHeight="12" english="MAY" image="localization\12_2013.png" selectedImage="localization\selected\12_2013.png"/>
+<string id="2014" xOff="0" yOff="0" fontPixelHeight="12" english="JUN" image="localization\12_2014.png" selectedImage="localization\selected\12_2014.png"/>
+<string id="2015" xOff="0" yOff="0" fontPixelHeight="12" english="JUL" image="localization\12_2015.png" selectedImage="localization\selected\12_2015.png"/>
+<string id="2016" xOff="0" yOff="0" fontPixelHeight="12" english="AUG" image="localization\12_2016.png" selectedImage="localization\selected\12_2016.png"/>
+<string id="2017" xOff="0" yOff="0" fontPixelHeight="12" english="SEP" image="localization\12_2017.png" selectedImage="localization\selected\12_2017.png"/>
+<string id="2018" xOff="0" yOff="0" fontPixelHeight="12" english="OCT" image="localization\12_2018.png" selectedImage="localization\selected\12_2018.png"/>
+<string id="2019" xOff="0" yOff="0" fontPixelHeight="12" english="NOV" image="localization\12_2019.png" selectedImage="localization\selected\12_2019.png"/>
+<string id="2020" xOff="0" yOff="0" fontPixelHeight="12" english="DEC" image="localization\12_2020.png" selectedImage="localization\selected\12_2020.png"/>
+<string id="2100" xOff="0" yOff="0" scale="1.5" fontPixelHeight="18" english="GAMEPLAY OPTIONS" image="localization\18_2100.png"/>
+<string id="2101" xOff="0" yOff="0" fontPixelHeight="12" english="DEFAULT P1:" image="localization\12_2101.png" selectedImage="localization\selected\12_2101.png"/>
+<string id="2102" xOff="0" yOff="0" fontPixelHeight="12" english="DEFAULT CHARACTER:" image="localization\12_2102.png" selectedImage="localization\selected\12_2102.png"/>
+<string id="2103" xOff="0" yOff="0" fontPixelHeight="12" english="SHOW ITEM HINTS" image="localization\12_2103.png" selectedImage="localization\selected\12_2103.png"/>
+<string id="2104" xOff="0" yOff="0" fontPixelHeight="12" english="ALWAYS SHOW ITEM NAMES" image="localization\12_2104.png" selectedImage="localization\selected\12_2104.png"/>
+<string id="2105" xOff="0" yOff="0" fontPixelHeight="12" english="ALWAYS SHOW ENEMY HEARTS" image="localization\12_2105.png" selectedImage="localization\selected\12_2105.png"/>
+<string id="2106" xOff="0" yOff="0" fontPixelHeight="12" english="QUICK LOBBY MOVEMENT" image="localization\12_2106.png" selectedImage="localization\selected\12_2106.png"/>
+<string id="2107" xOff="0" yOff="0" fontPixelHeight="12" english="SHOW DIAMOND REMINDER" image="localization\12_2107.png" selectedImage="localization\selected\12_2107.png"/>
+<string id="2108" xOff="0" yOff="0" fontPixelHeight="12" english="PAUSE WHEN MINIMIZED" image="localization\12_2108.png" selectedImage="localization\selected\12_2108.png"/>
+<string id="2109" xOff="0" yOff="0" fontPixelHeight="12" english="SHOW CUTSCENES" image="localization\12_2109.png" selectedImage="localization\selected\12_2109.png"/>
+<string id="2110" xOff="0" yOff="0" fontPixelHeight="12" english="SHOW BOSS INTROS" image="localization\12_2110.png" selectedImage="localization\selected\12_2110.png"/>
+<string id="2111" xOff="0" yOff="0" fontPixelHeight="12" english="DELETE ALL SAVE DATA" image="localization\12_2111.png" selectedImage="localization\selected\12_2111.png"/>
+<string id="2112" xOff="0" yOff="0" fontPixelHeight="12" english="DELETE ALL SAVED SETTINGS AND PROGRESS?" image="localization\12_2112.png"/>
+<string id="2113" xOff="0" yOff="0" fontPixelHeight="12" english="(THIS CANNOT BE UNDONE)" image="localization\12_2113.png"/>
+<string id="2150" xOff="0" yOff="0" scale="1.5" fontPixelHeight="18" english="LANGUAGE OPTIONS" image="localization\18_2150.png"/>
+<string id="2151" xOff="0" yOff="0" fontPixelHeight="12" english="ENABLE SUBTITLES" image="localization\12_2151.png" selectedImage="localization\selected\12_2151.png"/>
+<string id="2152" xOff="0" yOff="0" fontPixelHeight="12" english="LANGUAGE: FRENCH" image="localization\12_2152.png" selectedImage="localization\selected\12_2152.png"/>
+<string id="2200" xOff="0" yOff="0" scale="1.5" fontPixelHeight="18" english="SELECT A LEADERBOARD:" image="localization\18_2200.png"/>
+<string id="2201" xOff="0" yOff="0" fontPixelHeight="12" english="DAILY CHALLENGE" image="localization\12_2201.png" selectedImage="localization\selected\12_2201.png"/>
+<string id="2202" xOff="0" yOff="0" fontPixelHeight="12" english="ALL ZONES, SCORE:" image="localization\12_2202.png" selectedImage="localization\selected\12_2202.png"/>
+<string id="2203" xOff="0" yOff="0" fontPixelHeight="12" english="ALL ZONES, SPEEDRUN:" image="localization\12_2203.png" selectedImage="localization\selected\12_2203.png"/>
+<string id="2204" xOff="0" yOff="0" fontPixelHeight="12" english="SEEDED ALL ZONES, SCORE" image="localization\12_2204.png" selectedImage="localization\selected\12_2204.png"/>
+<string id="2205" xOff="0" yOff="0" fontPixelHeight="12" english="SEEDED ALL ZONES, SPEEDRUN:" image="localization\12_2205.png" selectedImage="localization\selected\12_2205.png"/>
+<string id="2206" xOff="0" yOff="0" fontPixelHeight="12" english="DEATHLESS MODE" image="localization\12_2206.png" selectedImage="localization\selected\12_2206.png"/>
+<string id="2207" xOff="0" yOff="0" fontPixelHeight="12" english="STORY MODE" image="localization\12_2207.png" selectedImage="localization\selected\12_2207.png"/>
+<string id="2208" xOff="0" yOff="0" scale="1.5" fontPixelHeight="18" english="LEADERBOARDS" image="localization\18_2208.png"/>
+<string id="2209" xOff="0" yOff="-3" scale="0.5" fontPixelHeight="6" english="NEXT DAY" image="localization\6_2209.png" selectedImage="localization\selected\6_2209.png"/>
+<string id="2210" xOff="0" yOff="-3" scale="0.5" fontPixelHeight="6" english="PREVIOUS DAY" image="localization\6_2210.png" selectedImage="localization\selected\6_2210.png"/>
+<string id="2211" xOff="0" yOff="-3" scale="0.5" fontPixelHeight="6" english="NEXT PAGE" image="localization\6_2211.png" selectedImage="localization\selected\6_2211.png"/>
+<string id="2212" xOff="0" yOff="-3" scale="0.5" fontPixelHeight="6" english="PREVIOUS PAGE" image="localization\6_2212.png" selectedImage="localization\selected\6_2212.png"/>
+<string id="2213" xOff="0" yOff="-3" scale="0.5" fontPixelHeight="6" english="STEAM FRIENDS ONLY" image="localization\6_2213.png" selectedImage="localization\selected\6_2213.png"/>
+<string id="2214" xOff="0" yOff="-3" scale="0.5" fontPixelHeight="6" english="NO" image="localization\6_2214.png" selectedImage="localization\selected\6_2214.png"/>
+<string id="2215" xOff="0" yOff="-3" scale="0.5" fontPixelHeight="6" english="YES" image="localization\6_2215.png" selectedImage="localization\selected\6_2215.png"/>
+<string id="2216" xOff="0" yOff="-3" scale="0.5" fontPixelHeight="6" english="HAS REPLAY?" image="localization\6_2216.png"/>
+<string id="2217" xOff="0" yOff="-3" scale="0.5" fontPixelHeight="6" english="NO, OLD VER" image="localization\6_2217.png" selectedImage="localization\selected\6_2217.png"/>
+<string id="2218" xOff="0" yOff="-3" scale="0.5" fontPixelHeight="6" english="NO PEEKING" image="localization\6_2218.png" selectedImage="localization\selected\6_2218.png"/>
+<string id="2219" xOff="0" yOff="-3" scale="0.5" fontPixelHeight="6" english="WATCH!" image="localization\6_2219.png" selectedImage="localization\selected\6_2219.png"/>
+<string id="2220" xOff="0" yOff="0" fontPixelHeight="12" english="ALL ZONES SEEDED SPEEDRUN," image="localization\12_2220.png"/>
+<string id="2221" xOff="0" yOff="0" fontPixelHeight="12" english="ALL ZONES MODE SPEEDRUN," image="localization\12_2221.png"/>
+<string id="2222" xOff="0" yOff="0" fontPixelHeight="12" english="ALL ZONES SEEDED MODE," image="localization\12_2222.png"/>
+<string id="2223" xOff="0" yOff="0" fontPixelHeight="12" english="ALL ZONES MODE," image="localization\12_2223.png"/>
+<string id="2224" xOff="0" yOff="0" fontPixelHeight="12" english="Daily Challenge" image="localization\12_2224.png"/>
+<string id="2225" xOff="0" yOff="0" fontPixelHeight="12" english="CO-OP" image="localization\12_2225.png"/>
+<string id="2226" xOff="0" yOff="0" fontPixelHeight="12" english="DEATHLESS" image="localization\12_2226.png"/>
+<string id="2227" xOff="0" yOff="0" fontPixelHeight="12" english="CUSTOM MUSIC" image="localization\12_2227.png"/>
+<string id="2228" xOff="0" yOff="0" fontPixelHeight="12" english="LOADING..." image="localization\12_2228.png"/>
+<string id="2229" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="RANK" image="localization\6_2229.png"/>
+<string id="2230" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="NAME" image="localization\6_2230.png"/>
+<string id="2231" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="WINS" image="localization\6_2231.png"/>
+<string id="2232" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="SCORE" image="localization\6_2232.png"/>
+<string id="2233" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="TIME" image="localization\6_2233.png"/>
+<string id="2234" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="ZONE" image="localization\6_2234.png"/>
+<string id="2235" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="LEVEL" image="localization\6_2235.png"/>
+<string id="2236" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="KILLED BY" image="localization\6_2236.png"/>
+<string id="2237" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="UNKNOWN" image="localization\6_2237.png"/>
+<string id="2238" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="WIN!" image="localization\6_2238.png"/>
+<string id="2300" xOff="0" yOff="0" scale="1.5" fontPixelHeight="18" english="CUSTOM MUSIC" image="localization\18_2300.png"/>
+<string id="2301" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="CHOOSE MUSIC" image="localization\6_2301.png" selectedImage="localization\selected\6_2301.png"/>
+<string id="2302" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="RESTORE DEFAULT" image="localization\6_2302.png" selectedImage="localization\selected\6_2302.png"/>
+<string id="2303" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="2X SPEED" image="localization\6_2303.png" selectedImage="localization\selected\6_2303.png"/>
+<string id="2304" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="1/2 SPEED" image="localization\6_2304.png" selectedImage="localization\selected\6_2304.png"/>
+<string id="2305" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="BACK" image="localization\6_2305.png" selectedImage="localization\selected\6_2305.png"/>
+<string id="2307" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="MANUAL BEATS" image="localization\6_2307.png" selectedImage="localization\selected\6_2307.png"/>
+<string id="2308" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="MANUAL BEATS (LOBBY ONLY)" image="localization\6_2308.png" selectedImage="localization\selected\6_2308.png"/>
+<string id="2309" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="CUSTOM MUSIC: DISABLED" image="localization\6_2309.png" selectedImage="localization\selected\6_2309.png"/>
+<string id="2310" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="CUSTOM MUSIC: ENABLED" image="localization\6_2310.png" selectedImage="localization\selected\6_2310.png"/>
+<string id="2311" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="Processing a song for the first time may take up to a minute" image="localization\6_2311.png"/>
+<string id="2312" xOff="0" yOff="0" fontPixelHeight="12" english="PROCESSING, PLEASE WAIT..." image="localization\12_2312.png"/>
+<string id="2352" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="PREVIOUS PAGE" image="localization\6_2352.png" selectedImage="localization\selected\6_2352.png"/>
+<string id="2353" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="NEXT PAGE" image="localization\6_2353.png" selectedImage="localization\selected\6_2353.png"/>
+<string id="2354" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="ADD TO PLAYLIST" image="localization\6_2354.png" selectedImage="localization\selected\6_2354.png"/>
+<string id="2400" xOff="0" yOff="0" scale="1.5" fontPixelHeight="18" english="AVAILABLE DUNGEONS" image="localization\18_2400.png"/>
+<string id="2401" xOff="0" yOff="0" fontPixelHeight="12" english="STEAM WORKSHOP" image="localization\12_2401.png" selectedImage="localization\selected\12_2401.png"/>
 </strings>
