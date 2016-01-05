@@ -1,0 +1,143 @@
+<subtitles>
+	<video name="intro_silent">
+		<subtitle xOff="0" yOff="0" scale="1.0" startTime="2300" endTime="4600" image="subtitles/cadence0_1.png"/>
+		<subtitle startTime="5600" endTime="8100" image="subtitles/cadence0_2.png"/>
+		<subtitle startTime="10300" endTime="12400" image="subtitles/cadence0_3.png"/>
+		<subtitle startTime="14300" endTime="16200" image="subtitles/cadence0_4.png"/>
+		<subtitle startTime="19000" endTime="23500" image="subtitles/cadence0_5.png"/>
+		<subtitle startTime="30700" endTime="34600" image="subtitles/cadence0_6.png"/>
+		<subtitle startTime="35500" endTime="38700" image="subtitles/cadence0_7.png"/>
+		<subtitle startTime="39000" endTime="42000" image="subtitles/cadence0_8.png"/>
+	</video>
+	<video name="cutscene_cadence_1">
+		<subtitle startTime="1000" endTime="6600" image="subtitles/cadence1_1.png"/>
+		<subtitle startTime="7200" endTime="9400" image="subtitles/cadence1_2.png"/>
+		<subtitle startTime="11400" endTime="17900" image="subtitles/cadence1_3.png"/>
+		<subtitle startTime="18800" endTime="24400" image="subtitles/cadence1_4.png"/>
+	</video>
+	<video name="cutscene_cadence_2">
+		<subtitle startTime="2700" endTime="9600" image="subtitles/cadence2_1.png"/>
+		<subtitle startTime="9900" endTime="13800" image="subtitles/cadence2_2.png"/>
+		<subtitle startTime="14000" endTime="15600" image="subtitles/cadence2_3.png"/>
+		<subtitle startTime="15700" endTime="18400" image="subtitles/cadence2_4.png"/>
+		<subtitle startTime="19900" endTime="23500" image="subtitles/cadence2_5.png"/>
+	</video>
+	<video name="cutscene_cadence_3">
+		<subtitle startTime="5900" endTime="11100" image="subtitles/cadence3_1.png"/>
+		<subtitle startTime="12800" endTime="15900" image="subtitles/cadence3_2.png"/>
+		<subtitle startTime="16400" endTime="20600" image="subtitles/cadence3_3.png"/>
+		<subtitle startTime="21800" endTime="25500" image="subtitles/cadence3_4.png"/>
+	</video>
+	<video name="cutscene_cadence_4">
+		<subtitle startTime="0" endTime="1000" image="subtitles/cadence4_1.png"/>
+		<subtitle startTime="1100" endTime="4000" image="subtitles/cadence4_2.png"/>
+		<subtitle startTime="4300" endTime="11000" image="subtitles/cadence4_3.png"/>
+		<subtitle startTime="12400" endTime="18300" image="subtitles/cadence4_4.png"/>
+	</video>
+	<video name="cutscene_cadence_5">
+		<subtitle startTime="1700" endTime="7600" image="subtitles/cadence5_1.png"/>
+		<subtitle startTime="8600" endTime="10500" image="subtitles/cadence5_2.png"/>
+	</video>
+	<video name="cutscene_melody_0">
+		<subtitle startTime="1500" endTime="6800" image="subtitles/melody0_1.png"/>
+		<subtitle startTime="7400" endTime="10400" image="subtitles/melody0_2.png"/>
+		<subtitle startTime="10500" endTime="13300" image="subtitles/melody0_3.png"/>
+		<subtitle startTime="14400" endTime="18900" image="subtitles/melody0_4.png"/>
+		<subtitle startTime="19600" endTime="25800" image="subtitles/melody0_5.png"/>
+	</video>
+	<video name="cutscene_melody_1">
+		<subtitle startTime="1700" endTime="5100" image="subtitles/melody1_1.png"/>
+		<subtitle startTime="5300" endTime="7000" image="subtitles/melody1_2.png"/>
+		<subtitle startTime="7100" endTime="11000" image="subtitles/melody1_3.png"/>
+		<subtitle startTime="11250" endTime="18000" image="subtitles/melody1_4.png"/>
+	</video>
+	<video name="cutscene_melody_2">
+		<subtitle startTime="3200" endTime="7800" image="subtitles/melody2_1.png"/>
+		<subtitle startTime="8800" endTime="14700" image="subtitles/melody2_2.png"/>
+	</video>
+	<video name="cutscene_melody_3">
+		<subtitle startTime="2100" endTime="6500" image="subtitles/melody3_1.png"/>
+		<subtitle startTime="7300" endTime="11800" image="subtitles/melody3_2.png"/>
+		<subtitle startTime="13300" endTime="17700" image="subtitles/melody3_3.png"/>
+	</video>
+	<video name="cutscene_melody_4">
+		<subtitle startTime="2000" endTime="6300" image="subtitles/melody4_1.png"/>
+		<subtitle startTime="7300" endTime="11800" image="subtitles/melody4_2.png"/>
+		<subtitle startTime="12400" endTime="17900" image="subtitles/melody4_3.png"/>
+		<subtitle startTime="18500" endTime="22000" image="subtitles/melody4_4.png"/>
+		<subtitle startTime="22600" endTime="27400" image="subtitles/melody4_5.png"/>
+		<subtitle startTime="27500" endTime="29500" image="subtitles/melody4_6.png"/>
+		<subtitle startTime="29700" endTime="34300" image="subtitles/melody4_7.png"/>
+	</video>
+	<video name="cutscene_melody_5">
+		<subtitle startTime="500" endTime="3500" image="subtitles/melody5_1.png"/>
+		<subtitle startTime="4300" endTime="5800" image="subtitles/melody5_2.png"/>
+		<subtitle startTime="11900" endTime="14500" image="subtitles/melody5_3.png"/>
+	</video>
+	<video name="cutscene_aria_0">
+		<subtitle startTime="100" endTime="6000" image="subtitles/aria0_1.png"/>
+		<subtitle startTime="6050" endTime="9000" image="subtitles/aria0_2.png"/>
+		<subtitle startTime="9500" endTime="13300" image="subtitles/aria0_3.png"/>
+		<subtitle startTime="13600" endTime="20100" image="subtitles/aria0_4.png"/>
+		<subtitle startTime="20300" endTime="23500" image="subtitles/aria0_5.png"/>
+	</video>
+	<video name="cutscene_aria_1">
+		<subtitle startTime="1300" endTime="5400" image="subtitles/aria1_1.png"/>
+		<subtitle startTime="5900" endTime="13100" image="subtitles/aria1_2.png"/>
+	</video>
+	<video name="cutscene_aria_2">
+		<subtitle startTime="1300" endTime="5200" image="subtitles/aria2_1.png"/>
+		<subtitle startTime="6500" endTime="11400" image="subtitles/aria2_2.png"/>
+	</video>
+	<video name="cutscene_aria_3">
+		<subtitle startTime="1500" endTime="6300" image="subtitles/aria3_1.png"/>
+		<subtitle startTime="7000" endTime="10600" image="subtitles/aria3_2.png"/>
+		<subtitle startTime="11100" endTime="14700" image="subtitles/aria3_3.png"/>
+		<subtitle startTime="15000" endTime="20800" image="subtitles/aria3_4.png"/>
+	</video>
+	<video name="cutscene_aria_4">
+		<subtitle startTime="1000" endTime="3300" image="subtitles/aria4_1.png"/>
+		<subtitle startTime="3800" endTime="10700" image="subtitles/aria4_2.png"/>
+		<subtitle startTime="11300" endTime="16400" image="subtitles/aria4_3.png"/>
+		<subtitle startTime="16700" endTime="19300" image="subtitles/aria4_4.png"/>
+		<subtitle startTime="19400" endTime="25900" image="subtitles/aria4_5.png"/>
+		<subtitle startTime="26100" endTime="28000" image="subtitles/aria4_6.png"/>
+	</video>
+	<video name="cutscene_aria_5">
+		<subtitle startTime="9300" endTime="11800" image="subtitles/aria5_1.png"/>
+		<subtitle startTime="14300" endTime="22200" image="subtitles/aria5_2.png"/>
+	</video>
+	<sound name="cadenceTutorial1">
+		<subtitle startTime="1000" endTime="4600" image="subtitles/tutorial1.png"/>
+	</sound>
+	<sound name="cadenceTutorial2">
+		<subtitle startTime="2000" endTime="7900" image="subtitles/tutorial2.png"/>
+	</sound>
+	<sound name="cadenceTutorial3">
+		<subtitle startTime="1000" endTime="7800" image="subtitles/tutorial3.png"/>
+	</sound>
+	<sound name="cadenceTutorial4">
+		<subtitle startTime="2000" endTime="8000" image="subtitles/tutorial4.png"/>
+	</sound>
+	<sound name="cadenceTutorial5">
+		<subtitle startTime="0" endTime="5700" image="subtitles/tutorial5.png"/>
+	</sound>
+	<sound name="cadenceTutorial6">
+		<subtitle startTime="500" endTime="5500" image="subtitles/tutorial6.png"/>
+	</sound>
+	<sound name="necrodancerCurseYou">
+		<subtitle startTime="500" endTime="2000" image="subtitles/necrodancer1.png"/>
+	</sound>
+	<sound name="necrodancerGiveMeThatLute">
+		<subtitle startTime="400" endTime="2000" image="subtitles/necrodancer2.png"/>
+	</sound>
+	<sound name="necrodancerLuteIsMine">
+		<subtitle startTime="1000" endTime="3000" image="subtitles/necrodancer3.png"/>
+	</sound>
+	<sound name="necrodancerTryAgain">
+		<subtitle startTime="1000" endTime="6000" image="subtitles/necrodancer4.png"/>
+	</sound>
+	<sound name="necrodancerTryAgain2">
+		<subtitle startTime="1500" endTime="6000" image="subtitles/necrodancer5.png"/>
+	</sound>
+</subtitles>
