@@ -967,8 +967,8 @@
 <string id="3035" xOff="6.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="MOLE" image="localization/3035.png"/>
 <string id="3036" xOff="6.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="WIGHT" image="localization/3036.png"/>
 <string id="3037" xOff="9.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="WALL MIMIC" image="localization/3037.png"/>
-<string id="3038" xOff="12.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="FIRE SLIME" image="localization/3038.png"/>
-<string id="3039" xOff="12.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="ICE SLIME" image="localization/3039.png"/>
+<string id="3038" xOff="15.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="FIRE SLIME" image="localization/3038.png"/>
+<string id="3039" xOff="15.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="ICE SLIME" image="localization/3039.png"/>
 <string id="3040" xOff="12.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="SKELETON KNIGHT" image="localization/3040.png"/>
 <string id="3041" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="YELLOW" image="NONE"/>
 <string id="3042" xOff="18.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="SKELETON KNIGHT" image="localization/3042.png"/>
@@ -981,9 +981,9 @@
 <string id="3049" xOff="15.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="GOBLIN" image="localization/3049.png"/>
 <string id="3050" xOff="9.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="FIRE BEETLE" image="localization/3050.png"/>
 <string id="3051" xOff="9.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="ICE BEETLE" image="localization/3051.png"/>
-<string id="3052" xOff="6.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="SHOVE MONSTER" image="localization/3052.png"/>
+<string id="3052" xOff="9.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="SHOVE MONSTER" image="localization/3052.png"/>
 <string id="3053" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="GRAY" image="NONE"/>
-<string id="3054" xOff="12.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="SHOVE MONSTER" image="localization/3054.png"/>
+<string id="3054" xOff="9.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="SHOVE MONSTER" image="localization/3054.png"/>
 <string id="3055" xOff="9.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="HELLHOUND" image="localization/3055.png"/>
 <string id="3056" xOff="12.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="YETI" image="localization/3056.png"/>
 <string id="3057" xOff="6.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="GHAST" image="localization/3057.png"/>
@@ -1053,14 +1053,29 @@
 <string id="3121" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="THE" image="NONE"/>
 <string id="3122" xOff="15.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="NECRODANCER 2" image="localization/3122.png"/>
 <string id="3123" xOff="15.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="GOLDEN LUTE" image="localization/3123.png"/>
+<string id="4000" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="WHITE ARMADILLO" image="localization/4000.png"/>
 <string id="4001" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="YELLOW ARMADILLO" image="localization/4001.png"/>
+<string id="4002" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="ORANGE ARMADILLO" image="localization/4002.png"/>
+<string id="4003" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="WHITE ARMORED SKELETON" image="localization/4003.png"/>
+<string id="4004" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="YELLOW ARMORED SKELETON" image="localization/4004.png"/>
+<string id="4005" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="BLACK ARMORED SKELETON" image="localization/4005.png"/>
+<string id="4006" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="BLUE BANSHEE" image="localization/4006.png"/>
+<string id="4007" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="GREEN BANSHEE" image="localization/4007.png"/>
+<string id="4008" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="BLUE BAT" image="localization/4008.png"/>
 <string id="4009" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="RED BAT" image="localization/4009.png"/>
 <string id="4010" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="GREEN BAT" image="localization/4010.png"/>
 <string id="4011" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="BLACK BAT" image="localization/4011.png"/>
+<string id="4012" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="YELLOW DIREBAT" image="localization/4012.png"/>
+<string id="4013" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="BROWN DIREBAT" image="localization/4013.png"/>
 <string id="4014" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="FIRE BEETLE" image="localization/4014.png"/>
 <string id="4015" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="ICE BEETLE" image="localization/4015.png"/>
+<string id="4016" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="BISHOP" image="localization/4016.png"/>
+<string id="4017" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="RED BISHOP" image="localization/4017.png"/>
+<string id="4018" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="APPRENTICE BLADEMASTER" image="localization/4018.png"/>
+<string id="4019" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="BLADEMASTER" image="localization/4019.png"/>
 <string id="4020" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="CLONE" image="localization/4020.png"/>
 <string id="4021" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="CORAL RIFF" image="localization/4021.png"/>
+<string id="4022" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="BARREL" image="localization/4022.png"/>
 <string id="4023" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="DEAD RINGER" image="localization/4023.png"/>
 <string id="4024" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="DEATH METAL" image="localization/4024.png"/>
 <string id="4025" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="GREEN DRAGON" image="localization/4025.png"/>
@@ -1068,58 +1083,133 @@
 <string id="4027" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="BLUE DRAGON" image="localization/4027.png"/>
 <string id="4028" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="WALL MIMIC" image="localization/4028.png"/>
 <string id="4029" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="FIRE ELEMENTAL" image="localization/4029.png"/>
+<string id="4030" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="GARGOYLE" image="localization/4030.png"/>
 <string id="4031" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="GHAST" image="localization/4031.png"/>
+<string id="4032" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="GHOST" image="localization/4032.png"/>
 <string id="4033" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="GHOUL" image="localization/4033.png"/>
+<string id="4034" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="PURPLE GOBLIN" image="localization/4034.png"/>
+<string id="4035" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="GRAY GOBLIN" image="localization/4035.png"/>
+<string id="4036" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="GOBLIN BOMBER" image="localization/4036.png"/>
+<string id="4037" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="LIGHT GOLEM" image="localization/4037.png"/>
 <string id="4038" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="DARK GOLEM" image="localization/4038.png"/>
 <string id="4039" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="OOZE GOLEM" image="localization/4039.png"/>
 <string id="4040" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="HARPY" image="localization/4040.png"/>
 <string id="4041" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="HELLHOUND" image="localization/4041.png"/>
 <string id="4042" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="ICE ELEMENTAL" image="localization/4042.png"/>
+<string id="4043" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="KING" image="localization/4043.png"/>
+<string id="4044" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="RED KING" image="localization/4044.png"/>
 <string id="4045" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="KING CONGA" image="localization/4045.png"/>
+<string id="4046" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="KNIGHT" image="localization/4046.png"/>
+<string id="4047" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="RED KNIGHT" image="localization/4047.png"/>
+<string id="4048" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="LEPRECHAUN" image="localization/4048.png"/>
 <string id="4049" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="LICH" image="localization/4049.png"/>
 <string id="4050" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="RED LICH" image="localization/4050.png"/>
 <string id="4051" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="BLACK LICH" image="localization/4051.png"/>
 <string id="4052" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="THE GOLDEN LUTE" image="localization/4052.png"/>
+<string id="4053" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="LIGHT MINOTAUR" image="localization/4053.png"/>
+<string id="4054" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="DARK MINOTAUR" image="localization/4054.png"/>
 <string id="4055" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="MOLE" image="localization/4055.png"/>
+<string id="4056" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="PURPLE MONKEY" image="localization/4056.png"/>
 <string id="4057" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="WHITE MONKEY" image="localization/4057.png"/>
+<string id="4058" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="GREEN MONKEY" image="localization/4058.png"/>
+<string id="4059" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="MAGIC MONKEY" image="localization/4059.png"/>
 <string id="4060" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="THE MOMMY" image="localization/4060.png"/>
+<string id="4061" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="MUMMY" image="localization/4061.png"/>
+<string id="4062" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="BLUE MUSHROOM" image="localization/4062.png"/>
+<string id="4063" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="PURPLE MUSHROOM" image="localization/4063.png"/>
+<string id="4064" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="EXPLODING MUSHROOM" image="localization/4064.png"/>
 <string id="4065" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="THE NECRODANCER" image="localization/4065.png"/>
+<string id="4066" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="DARK NIGHTMARE" image="localization/4066.png"/>
 <string id="4067" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="BLOOD NIGHTMARE" image="localization/4067.png"/>
 <string id="4068" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="OGRE" image="localization/4068.png"/>
+<string id="4069" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="PAWN" image="localization/4069.png"/>
+<string id="4070" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="RED PAWN" image="localization/4070.png"/>
 <string id="4071" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="PIXIE" image="localization/4071.png"/>
+<string id="4072" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="QUEEN" image="localization/4072.png"/>
+<string id="4073" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="RED QUEEN" image="localization/4073.png"/>
+<string id="4074" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="ROOK" image="localization/4074.png"/>
+<string id="4075" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="RED ROOK" image="localization/4075.png"/>
 <string id="4076" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="SARCOPHAGUS" image="localization/4076.png"/>
+<string id="4077" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="YELLOW SARCOPHAGUS" image="localization/4077.png"/>
+<string id="4078" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="BLACK SARCOPHAGUS" image="localization/4078.png"/>
+<string id="4079" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="SHOPKEEPER" image="localization/4079.png"/>
+<string id="4080" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="MONSTROUS SHOPKEEPER" image="localization/4080.png"/>
+<string id="4081" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="SHOPKEEPER GHOST" image="localization/4081.png"/>
+<string id="4082" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="SHOVEMONSTER" image="localization/4082.png"/>
+<string id="4083" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="WHITE SKELETON" image="localization/4083.png"/>
 <string id="4084" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="YELLOW SKELETON" image="localization/4084.png"/>
 <string id="4085" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="BLACK SKELETON" image="localization/4085.png"/>
+<string id="4086" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="WHITE SKELETON KNIGHT" image="localization/4086.png"/>
+<string id="4087" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="YELLOW SKELETON KNIGHT" image="localization/4087.png"/>
+<string id="4088" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="BLACK SKELETON KNIGHT" image="localization/4088.png"/>
+<string id="4089" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="WHITE SKELETON MAGE" image="localization/4089.png"/>
+<string id="4090" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="YELLOW SKELETON MAGE" image="localization/4090.png"/>
+<string id="4091" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="BLACK SKELETON MAGE" image="localization/4091.png"/>
+<string id="4092" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="GOBLIN SENTRY" image="localization/4092.png"/>
 <string id="4093" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="GREEN SLIME" image="localization/4093.png"/>
 <string id="4094" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="BLUE SLIME" image="localization/4094.png"/>
 <string id="4095" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="ORANGE SLIME" image="localization/4095.png"/>
 <string id="4096" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="ICE SLIME" image="localization/4096.png"/>
 <string id="4097" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="FIRE SLIME" image="localization/4097.png"/>
 <string id="4098" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="SPIDER" image="localization/4098.png"/>
+<string id="4099" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="TARMONSTER" image="localization/4099.png"/>
+<string id="4100" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="TENTACLE" image="localization/4100.png"/>
 <string id="4101" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="CHEST MIMIC" image="localization/4101.png"/>
+<string id="4102" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="LOCKED CHEST MIMIC" image="localization/4102.png"/>
+<string id="4103" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="WHITE CHEST MIMIC" image="localization/4103.png"/>
+<string id="4104" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="FIRE CAULDRON MIMIC" image="localization/4104.png"/>
+<string id="4105" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="ICE CAULDRON MIMIC" image="localization/4105.png"/>
 <string id="4106" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="WARLOCK" image="localization/4106.png"/>
 <string id="4107" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="NEON WARLOCK" image="localization/4107.png"/>
 <string id="4108" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="WIGHT" image="localization/4108.png"/>
 <string id="4109" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="WRAITH" image="localization/4109.png"/>
 <string id="4110" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="YETI" image="localization/4110.png"/>
 <string id="4111" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="ZOMBIE" image="localization/4111.png"/>
+<string id="4113" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="SPIKETRAP" image="localization/4113.png"/>
+<string id="4114" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="BLOOD MAGIC" image="localization/4114.png"/>
 <string id="4115" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="BLOOD SHOVEL" image="localization/4115.png"/>
 <string id="4116" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="BLOOD DRUM" image="localization/4116.png"/>
+<string id="4117" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="BLOOD DEBT" image="localization/4117.png"/>
 <string id="4118" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="BOOTS OF PAIN" image="localization/4118.png"/>
+<string id="4119" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="CROWNOFTHORNS" image="localization/4119.png"/>
+<string id="4120" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="COWARDICE" image="localization/4120.png"/>
+<string id="4121" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="VOW OF POVERTY" image="localization/4121.png"/>
+<string id="4122" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="HOTCOAL" image="localization/4122.png"/>
+<string id="4123" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="LAVA" image="localization/4123.png"/>
+<string id="4124" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="DORIAN'S CURSE" image="localization/4124.png"/>
+<string id="4125" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="SHOVE" image="localization/4125.png"/>
+<string id="4126" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="CRYSTALTILE" image="localization/4126.png"/>
 <string id="4127" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="SHRINE OF PACE" image="localization/4127.png"/>
 <string id="4128" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="SHRINE OF NO RETURN" image="localization/4128.png"/>
 <string id="4129" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="SHRINE OF RISK" image="localization/4129.png"/>
+<string id="4130" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="TRAP WALLS" image="localization/4130.png"/>
 <string id="4131" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="BOMB" image="localization/4131.png"/>
+<string id="4133" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="GRAY SHOVEMONSTER" image="localization/4133.png"/>
 <string id="4134" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="DEEP BLUES" image="localization/4134.png"/>
 <string id="4135" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="FIREBALL" image="localization/4135.png"/>
+<string id="6000" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="WHITE ARMADILLO" image="localization/6000.png"/>
 <string id="6001" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="YELLOW ARMADILLO" image="localization/6001.png"/>
+<string id="6002" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="ORANGE ARMADILLO" image="localization/6002.png"/>
+<string id="6003" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="WHITE ARMORED SKELETON" image="localization/6003.png"/>
+<string id="6004" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="YELLOW ARMORED SKELETON" image="localization/6004.png"/>
+<string id="6005" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="BLACK ARMORED SKELETON" image="localization/6005.png"/>
+<string id="6006" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="BLUE BANSHEE" image="localization/6006.png"/>
+<string id="6007" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="GREEN BANSHEE" image="localization/6007.png"/>
+<string id="6008" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="BLUE BAT" image="localization/6008.png"/>
 <string id="6009" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="RED BAT" image="localization/6009.png"/>
 <string id="6010" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="GREEN BAT" image="localization/6010.png"/>
 <string id="6011" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="BLACK BAT" image="localization/6011.png"/>
+<string id="6012" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="YELLOW DIREBAT" image="localization/6012.png"/>
+<string id="6013" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="BROWN DIREBAT" image="localization/6013.png"/>
 <string id="6014" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="FIRE BEETLE" image="localization/6014.png"/>
 <string id="6015" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="ICE BEETLE" image="localization/6015.png"/>
+<string id="6016" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="BISHOP" image="localization/6016.png"/>
+<string id="6017" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="RED BISHOP" image="localization/6017.png"/>
+<string id="6018" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="APPRENTICE BLADEMASTER" image="localization/6018.png"/>
+<string id="6019" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="BLADEMASTER" image="localization/6019.png"/>
 <string id="6020" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="CLONE" image="localization/6020.png"/>
 <string id="6021" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="CORAL RIFF" image="localization/6021.png"/>
+<string id="6022" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="BARREL" image="localization/6022.png"/>
 <string id="6023" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="DEAD RINGER" image="localization/6023.png"/>
 <string id="6024" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="DEATH METAL" image="localization/6024.png"/>
 <string id="6025" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="GREEN DRAGON" image="localization/6025.png"/>
@@ -1127,48 +1217,108 @@
 <string id="6027" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="BLUE DRAGON" image="localization/6027.png"/>
 <string id="6028" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="WALL MIMIC" image="localization/6028.png"/>
 <string id="6029" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="FIRE ELEMENTAL" image="localization/6029.png"/>
+<string id="6030" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="GARGOYLE" image="localization/6030.png"/>
 <string id="6031" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="GHAST" image="localization/6031.png"/>
+<string id="6032" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="GHOST" image="localization/6032.png"/>
 <string id="6033" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="GHOUL" image="localization/6033.png"/>
+<string id="6034" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="PURPLE GOBLIN" image="localization/6034.png"/>
+<string id="6035" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="GRAY GOBLIN" image="localization/6035.png"/>
+<string id="6036" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="GOBLIN BOMBER" image="localization/6036.png"/>
+<string id="6037" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="LIGHT GOLEM" image="localization/6037.png"/>
 <string id="6038" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="DARK GOLEM" image="localization/6038.png"/>
 <string id="6039" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="OOZE GOLEM" image="localization/6039.png"/>
 <string id="6040" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="HARPY" image="localization/6040.png"/>
 <string id="6041" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="HELLHOUND" image="localization/6041.png"/>
 <string id="6042" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="ICE ELEMENTAL" image="localization/6042.png"/>
+<string id="6043" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="KING" image="localization/6043.png"/>
+<string id="6044" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="RED KING" image="localization/6044.png"/>
 <string id="6045" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="KING CONGA" image="localization/6045.png"/>
+<string id="6046" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="KNIGHT" image="localization/6046.png"/>
+<string id="6047" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="RED KNIGHT" image="localization/6047.png"/>
+<string id="6048" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="LEPRECHAUN" image="localization/6048.png"/>
 <string id="6049" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="LICH" image="localization/6049.png"/>
 <string id="6050" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="RED LICH" image="localization/6050.png"/>
 <string id="6051" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="BLACK LICH" image="localization/6051.png"/>
 <string id="6052" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="THE GOLDEN LUTE" image="localization/6052.png"/>
+<string id="6053" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="LIGHT MINOTAUR" image="localization/6053.png"/>
+<string id="6054" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="DARK MINOTAUR" image="localization/6054.png"/>
 <string id="6055" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="MOLE" image="localization/6055.png"/>
+<string id="6056" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="PURPLE MONKEY" image="localization/6056.png"/>
 <string id="6057" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="WHITE MONKEY" image="localization/6057.png"/>
+<string id="6058" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="GREEN MONKEY" image="localization/6058.png"/>
+<string id="6059" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="MAGIC MONKEY" image="localization/6059.png"/>
 <string id="6060" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="THE MOMMY" image="localization/6060.png"/>
+<string id="6061" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="MUMMY" image="localization/6061.png"/>
+<string id="6062" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="BLUE MUSHROOM" image="localization/6062.png"/>
+<string id="6063" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="PURPLE MUSHROOM" image="localization/6063.png"/>
+<string id="6064" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="EXPLODING MUSHROOM" image="localization/6064.png"/>
 <string id="6065" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="THE NECRODANCER" image="localization/6065.png"/>
+<string id="6066" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="DARK NIGHTMARE" image="localization/6066.png"/>
 <string id="6067" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="BLOOD NIGHTMARE" image="localization/6067.png"/>
 <string id="6068" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="OGRE" image="localization/6068.png"/>
+<string id="6069" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="PAWN" image="localization/6069.png"/>
+<string id="6070" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="RED PAWN" image="localization/6070.png"/>
 <string id="6071" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="PIXIE" image="localization/6071.png"/>
+<string id="6072" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="QUEEN" image="localization/6072.png"/>
+<string id="6073" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="RED QUEEN" image="localization/6073.png"/>
+<string id="6074" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="ROOK" image="localization/6074.png"/>
+<string id="6075" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="RED ROOK" image="localization/6075.png"/>
 <string id="6076" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="SARCOPHAGUS" image="localization/6076.png"/>
+<string id="6077" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="YELLOW SARCOPHAGUS" image="localization/6077.png"/>
+<string id="6078" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="BLACK SARCOPHAGUS" image="localization/6078.png"/>
+<string id="6079" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="SHOPKEEPER" image="localization/6079.png"/>
+<string id="6080" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="MONSTROUS SHOPKEEPER" image="localization/6080.png"/>
+<string id="6081" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="SHOPKEEPER GHOST" image="localization/6081.png"/>
+<string id="6082" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="SHOVEMONSTER" image="localization/6082.png"/>
+<string id="6083" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="WHITE SKELETON" image="localization/6083.png"/>
 <string id="6084" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="YELLOW SKELETON" image="localization/6084.png"/>
 <string id="6085" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="BLACK SKELETON" image="localization/6085.png"/>
+<string id="6086" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="WHITE SKELETON KNIGHT" image="localization/6086.png"/>
+<string id="6087" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="YELLOW SKELETON KNIGHT" image="localization/6087.png"/>
+<string id="6088" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="BLACK SKELETON KNIGHT" image="localization/6088.png"/>
+<string id="6089" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="WHITE SKELETON MAGE" image="localization/6089.png"/>
+<string id="6090" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="YELLOW SKELETON MAGE" image="localization/6090.png"/>
+<string id="6091" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="BLACK SKELETON MAGE" image="localization/6091.png"/>
+<string id="6092" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="GOBLIN SENTRY" image="localization/6092.png"/>
 <string id="6093" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="GREEN SLIME" image="localization/6093.png"/>
 <string id="6094" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="BLUE SLIME" image="localization/6094.png"/>
 <string id="6095" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="ORANGE SLIME" image="localization/6095.png"/>
 <string id="6096" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="ICE SLIME" image="localization/6096.png"/>
 <string id="6097" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="FIRE SLIME" image="localization/6097.png"/>
 <string id="6098" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="SPIDER" image="localization/6098.png"/>
+<string id="6099" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="TARMONSTER" image="localization/6099.png"/>
+<string id="6100" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="TENTACLE" image="localization/6100.png"/>
 <string id="6101" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="CHEST MIMIC" image="localization/6101.png"/>
+<string id="6102" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="LOCKED CHEST MIMIC" image="localization/6102.png"/>
+<string id="6103" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="WHITE CHEST MIMIC" image="localization/6103.png"/>
+<string id="6104" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="FIRE CAULDRON MIMIC" image="localization/6104.png"/>
+<string id="6105" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="ICE CAULDRON MIMIC" image="localization/6105.png"/>
 <string id="6106" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="WARLOCK" image="localization/6106.png"/>
 <string id="6107" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="NEON WARLOCK" image="localization/6107.png"/>
 <string id="6108" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="WIGHT" image="localization/6108.png"/>
 <string id="6109" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="WRAITH" image="localization/6109.png"/>
 <string id="6110" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="YETI" image="localization/6110.png"/>
 <string id="6111" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="ZOMBIE" image="localization/6111.png"/>
+<string id="6113" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="SPIKETRAP" image="localization/6113.png"/>
+<string id="6114" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="BLOOD MAGIC" image="localization/6114.png"/>
 <string id="6115" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="BLOOD SHOVEL" image="localization/6115.png"/>
 <string id="6116" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="BLOOD DRUM" image="localization/6116.png"/>
+<string id="6117" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="BLOOD DEBT" image="localization/6117.png"/>
 <string id="6118" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="BOOTS OF PAIN" image="localization/6118.png"/>
+<string id="6119" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="CROWNOFTHORNS" image="localization/6119.png"/>
+<string id="6120" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="COWARDICE" image="localization/6120.png"/>
+<string id="6121" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="VOW OF POVERTY" image="localization/6121.png"/>
+<string id="6122" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="HOTCOAL" image="localization/6122.png"/>
+<string id="6123" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="LAVA" image="localization/6123.png"/>
+<string id="6124" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="DORIAN'S CURSE" image="localization/6124.png"/>
+<string id="6125" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="SHOVE" image="localization/6125.png"/>
+<string id="6126" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="CRYSTALTILE" image="localization/6126.png"/>
 <string id="6127" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="SHRINE OF PACE" image="localization/6127.png"/>
 <string id="6128" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="SHRINE OF NO RETURN" image="localization/6128.png"/>
 <string id="6129" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="SHRINE OF RISK" image="localization/6129.png"/>
+<string id="6130" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="TRAP WALLS" image="localization/6130.png"/>
 <string id="6131" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="BOMB" image="localization/6131.png"/>
+<string id="6133" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="GRAY SHOVEMONSTER" image="localization/6133.png"/>
 <string id="6134" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="DEEP BLUES" image="localization/6134.png"/>
 <string id="6135" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="FIREBALL" image="localization/6135.png"/>
 </strings>
