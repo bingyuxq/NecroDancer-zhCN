@@ -65,12 +65,12 @@ id,english,翻译结果,数据类型
 64,Daily Challenge,每日挑战,"GAMEPLAY, MAIN MENU, POPUPS"
 65,LOCAL CO-OP,本地合作,"GAMEPLAY, MAIN MENU, POPUPS"
 66,SINGLE PLAYER,单人模式,"GAMEPLAY, MAIN MENU, POPUPS"
-67,Zone 1 completed. Zone 2 unlocked!,解锁条件：完成区域1,"GAMEPLAY, MAIN MENU, POPUPS"
-68,Zone 2 completed. Zone 3 unlocked!,解锁条件：完成区域2,"GAMEPLAY, MAIN MENU, POPUPS"
-69,Zone 3 completed. Zone 4 unlocked!,解锁条件：完成区域3,"GAMEPLAY, MAIN MENU, POPUPS"
-70,Zone 4 completed. Zone 3 unlocked!,解锁条件：完成区域4,"GAMEPLAY, MAIN MENU, POPUPS"
-71,Zone 3 completed. Zone 2 unlocked!,解锁条件：完成区域3,"GAMEPLAY, MAIN MENU, POPUPS"
-72,Zone 2 completed. Zone 1 unlocked!,解锁条件：完成区域2,"GAMEPLAY, MAIN MENU, POPUPS"
+67,Zone 1 completed. Zone 2 unlocked!,区域1完成：解锁区域2,"GAMEPLAY, MAIN MENU, POPUPS"
+68,Zone 2 completed. Zone 3 unlocked!,区域2完成：解锁区域3,"GAMEPLAY, MAIN MENU, POPUPS"
+69,Zone 3 completed. Zone 4 unlocked!,区域3完成：解锁区域3,"GAMEPLAY, MAIN MENU, POPUPS"
+70,Zone 4 completed. Zone 3 unlocked!,区域4完成：解锁区域3,"GAMEPLAY, MAIN MENU, POPUPS"
+71,Zone 3 completed. Zone 2 unlocked!,区域3完成：解锁区域2,"GAMEPLAY, MAIN MENU, POPUPS"
+72,Zone 2 completed. Zone 1 unlocked!,区域2完成：解锁区域1,"GAMEPLAY, MAIN MENU, POPUPS"
 73,DUNGEON MASTER,地下城大师,"GAMEPLAY, MAIN MENU, POPUPS"
 74,FIND ME IN ZONE 1!,解锁条件：在区域1找到我,"GAMEPLAY, MAIN MENU, POPUPS"
 75,These items will show up in chests!,这些物品将会加入你的掉落库,"GAMEPLAY, MAIN MENU, POPUPS"
@@ -100,8 +100,8 @@ id,english,翻译结果,数据类型
 99,(NON-ALL ZONES) item pool?,（不包括全区域挑战）,"GAMEPLAY, MAIN MENU, POPUPS"
 100,DIAMOND DEALER,钻石商人,"GAMEPLAY, MAIN MENU, POPUPS"
 101,FIND ME IN ZONE 2!,解锁条件：在区域2找到我,"GAMEPLAY, MAIN MENU, POPUPS"
-102,Take these on your,,"GAMEPLAY, MAIN MENU, POPUPS"
-103,NEXT (NON-ALL ZONES) run!,,"GAMEPLAY, MAIN MENU, POPUPS"
+102,Take these on your,购买下次冒险中的初始装备,"GAMEPLAY, MAIN MENU, POPUPS"
+103,NEXT (NON-ALL ZONES) run!,（不包括全区域挑战）,"GAMEPLAY, MAIN MENU, POPUPS"
 104,RANDOM,随机人物模式,"GAMEPLAY, MAIN MENU, POPUPS"
 105,CHARACTER,NULL,"GAMEPLAY, MAIN MENU, POPUPS"
 106,ALL CHARS,全角色模式,"GAMEPLAY, MAIN MENU, POPUPS"
@@ -251,7 +251,7 @@ id,english,翻译结果,数据类型
 253,(COUPON),（优惠劵）,FLYAWAYS
 254,(GLASS!),（玻璃化）,FLYAWAYS
 255,SLOTH! (SHRINE OF PACE),懈怠(步调圣陵),FLYAWAYS
-256,SHRUNK!,畏缩,FLYAWAYS
+256,SHRUNK!,缩小,FLYAWAYS
 257,EXIT LOCKED!,出口已锁,FLYAWAYS
 258,COURAGE!,英勇,FLYAWAYS
 259,PROTECTED!,防护,FLYAWAYS
@@ -517,7 +517,7 @@ id,english,翻译结果,数据类型
 526,RESTORE 2 HEALTH,回复 2 生命,ITEM NAMES/HINTS
 527,RESTORE 3 HEALTH,回复 3 生命,ITEM NAMES/HINTS
 528,RESTORE 4 HEALTH,回复 4 生命,ITEM NAMES/HINTS
-529,USE NEAR ENEMIES,利用周围的敌人,ITEM NAMES/HINTS
+529,USE NEAR ENEMIES,杀死周围的敌人回血,ITEM NAMES/HINTS
 530,GIGANTISM,变大,ITEM NAMES/HINTS
 531,"STAND STILL, INCREASE DAMAGE",可以原地踏步，提升伤害,ITEM NAMES/HINTS
 532,"TAKES HEALTH, INCREASES DAMAGE",以生命值换取伤害,ITEM NAMES/HINTS
@@ -531,7 +531,7 @@ id,english,翻译结果,数据类型
 540,STEALTHY,潜行,ITEM NAMES/HINTS
 541,"DOUBLE ALL DMG, FRAILTY",双倍伤害，虚弱,ITEM NAMES/HINTS
 542,"BOMB IMMUNITY, +3 BOMBS",爆炸免疫，+3 炸弹,ITEM NAMES/HINTS
-543,"+1 DMG, STRANGE VISION",+1 伤害，视野变异,ITEM NAMES/HINTS
+543,"+1 DMG, STRANGE VISION",+1 伤害，视野降低,ITEM NAMES/HINTS
 544,+1 STORAGE,+1 背包空间,ITEM NAMES/HINTS
 545,HOLD 2ND WEAPON,双武器,ITEM NAMES/HINTS
 546,INFINITE STORAGE,四次元背包,ITEM NAMES/HINTS
@@ -553,7 +553,7 @@ id,english,翻译结果,数据类型
 562,FIND BETTER ITEMS,能找到更好的物品,ITEM NAMES/HINTS
 563,WARDS OFF SPIRITS,,ITEM NAMES/HINTS
 564,+2 DMG AT LOW HEALTH,放手一搏（+2伤害）,ITEM NAMES/HINTS
-565,"+1 DMG, KILL DASH",,ITEM NAMES/HINTS
+565,"+1 DMG, KILL DASH",+1 伤害，击杀时冲锋,ITEM NAMES/HINTS
 566,"+1 DAMAGE, MORE ENEMIES",+1 伤害，更多敌人,ITEM NAMES/HINTS
 567,"+1 HEART, FEWER ENEMIES",+1 心之容器，更少敌人,ITEM NAMES/HINTS
 568,MORE POWERFUL SPELLS,魔法增效,ITEM NAMES/HINTS
@@ -576,7 +576,7 @@ id,english,翻译结果,数据类型
 585,+1 DIG,+1挖掘能力,ITEM NAMES/HINTS
 586,"DIG ANYTHING, BUT TAKE DAMAGE",可以挖掘任何东西，同时受到伤害,ITEM NAMES/HINTS
 587,MULTIPLIER-BASED DIG,金币倍率将强化挖掘能力,ITEM NAMES/HINTS
-588,"+2 DIG, BREAKABLE",+2挖掘等级，被打断移除,ITEM NAMES/HINTS
+588,"+2 DIG, BREAKABLE",+2 挖掘等级，被攻击破碎,ITEM NAMES/HINTS
 589,"SLOW, STRONG DIG",蓄力挖掘,ITEM NAMES/HINTS
 590,HORIZONTAL FIRE BLAST,向两侧发射火焰,ITEM NAMES/HINTS
 591,FREEZE ENEMIES,冻结敌人,ITEM NAMES/HINTS
@@ -589,15 +589,15 @@ id,english,翻译结果,数据类型
 598,+2 VISION RADIUS,+2 视野,ITEM NAMES/HINTS
 599,+3 VISION RADIUS,+3 视野,ITEM NAMES/HINTS
 600,+1 VISION + TRAPSIGHT,+1视野 +陷阱侦测,ITEM NAMES/HINTS
-601,"MAGIC VISION, BREAKABLE",魔法视野，被打断移除,ITEM NAMES/HINTS
-602,CONSUMES TORCHES ON WALLS,墙壁上的火把,ITEM NAMES/HINTS
+601,"MAGIC VISION, BREAKABLE",可以看到所有敌人和物品，被攻击破碎,ITEM NAMES/HINTS
+602,CONSUMES TORCHES ON WALLS,攻击墙壁上的火把时释放火球术,ITEM NAMES/HINTS
 603,MULTIPLIER-BASED LIGHT,金币倍率将强化光照,ITEM NAMES/HINTS
 604,"DAGGER, THROWABLE",匕首，可投掷,ITEM NAMES/HINTS
 605,2 DAMAGE,2 伤害,ITEM NAMES/HINTS
 606,MULTIPLIER-BASED DAMAGE,金币倍率将强化伤害,ITEM NAMES/HINTS
 607,HIGH DMG AFTER GOLD PICKUP,拾取金币后伤害提升,ITEM NAMES/HINTS
 608,"KILL TO HEAL, LOW HEALTH = +DAMAGE",吸血攻击，失血增加伤害,ITEM NAMES/HINTS
-609,"4 DAMAGE, BREAKABLE",+4伤害，被打断移除,ITEM NAMES/HINTS
+609,"4 DAMAGE, BREAKABLE",+4 伤害，被攻击破碎,ITEM NAMES/HINTS
 610,5 DAMAGE,+5 伤害,ITEM NAMES/HINTS
 611,"FREEZE ENEMIES, KILL FROZEN ENEMIES, PIERCING",冻结敌人，杀死被冻结敌人，冰冷刺骨,ITEM NAMES/HINTS
 612,"PHASING ATTACK, 2 DMG",相位攻击，2伤害,ITEM NAMES/HINTS
@@ -1084,7 +1084,7 @@ id,english,翻译结果,数据类型
 3044,SKELETON KNIGHT,黑色骷髅骑士,ENEMY NAMES (TRAINING STAIRS)
 3045,FIRE ELEMENTAL,火元素,ENEMY NAMES (TRAINING STAIRS)
 3046,ICE ELEMENTAL,冰元素,ENEMY NAMES (TRAINING STAIRS)
-3047,GOBLIN,哥布林,ENEMY NAMES (TRAINING STAIRS)
+3047,GOBLIN,紫色哥布林,ENEMY NAMES (TRAINING STAIRS)
 3048,GRAY,NULL,ENEMY NAMES (TRAINING STAIRS)
 3049,GOBLIN,灰色哥布林,ENEMY NAMES (TRAINING STAIRS)
 3050,FIRE BEETLE,火甲虫,ENEMY NAMES (TRAINING STAIRS)
@@ -1114,8 +1114,8 @@ id,english,翻译结果,数据类型
 3074,BLADEMASTER,见习剑士,ENEMY NAMES (TRAINING STAIRS)
 3075,BLADEMASTER,剑术大师,ENEMY NAMES (TRAINING STAIRS)
 3076,HARPY,鹰身女妖,ENEMY NAMES (TRAINING STAIRS)
-3077,GOBLIN,哥布林,ENEMY NAMES (TRAINING STAIRS)
-3078,BOMBER,投弹手,ENEMY NAMES (TRAINING STAIRS)
+3077,GOBLIN,NULL,ENEMY NAMES (TRAINING STAIRS)
+3078,BOMBER,哥布林投弹手,ENEMY NAMES (TRAINING STAIRS)
 3079,SPIDER,蜘蛛,ENEMY NAMES (TRAINING STAIRS)
 3080,GOBLIN,NULL,ENEMY NAMES (TRAINING STAIRS)
 3081,SENTRY,哥布林警卫,ENEMY NAMES (TRAINING STAIRS)
@@ -1650,27 +1650,27 @@ TEMP_tutorial1,"BRIEF TUTORIAL!
 （按 P 跳过）",TEXT
 TEMP_tutorial2,"PRESS AN ARROW KEY
 ON THE BEAT TO MOVE",伴着节拍按下方向键来移动,TEXT
-aria0_1,"I came back to destroy the Lute. I revived the NecroDancer to seek answers, but he betrayed me",,SUBTITLES
-aria0_2,You left us. You never came back!,,SUBTITLES
-aria0_3,"I did what I thought I had to, but I failed.",,SUBTITLES
-aria0_4,I blamed you for so long... but I understand now. This thing must be destroyed.,,SUBTITLES
-aria0_5,That's right. And only I know how to do it.,,SUBTITLES
-aria1_1,"Before he betrayed me, he told me the location of the shrine.",,SUBTITLES
-aria1_2,No doubt just to buy himself more time.Let's end this.,,SUBTITLES
-aria2_1,"Octavian was once a bard, struggling to be noticed.",,SUBTITLES
-aria2_2,On his travels he stumbled upon the solution to his troubles.,,SUBTITLES
-aria3_1,"Centuries ago, Octavian fled to the crypt and amassed an undead army.",,SUBTITLES
-aria3_2,"But the first time I found the crypt, there were no monsters.",,SUBTITLES
-aria3_3,"After hundreds of years without sleep, the bard had grown weary.",,SUBTITLES
-aria3_4,"He stopped playing, and so he died.The Lute was lost to legend.",,SUBTITLES
-aria4_1,"When I came back, I raised him.",,SUBTITLES
-aria4_2,"Octavian, I know who you are. We need to destroy this lute. It was not meant for mortal hands!",,SUBTITLES
-aria4_3,You're right. I will sacrifice myself to destroy it.,,SUBTITLES
-aria4_4,I can't trust anyone else with this.,,SUBTITLES
-aria4_5,I have already been cursed. Let me atone for what I have done.,,SUBTITLES
-aria4_6,I was a fool.,,SUBTITLES
-aria5_1,Finally I've made amends.,,SUBTITLES
-aria5_2,"Everything comes to an end, my daughter. But for you and your family, not today.",,SUBTITLES
+aria0_1,"I came back to destroy the Lute. I revived the NecroDancer to seek answers, but he betrayed me",我回来摧毁这把鲁特琴。为了寻找答案我复活了NecroDancer，但他背叛了我。,SUBTITLES
+aria0_2,You left us. You never came back!,你抛下我们，一去不复返！,SUBTITLES
+aria0_3,"I did what I thought I had to, but I failed.",我做了我认为正确的事，却没有成功。,SUBTITLES
+aria0_4,I blamed you for so long... but I understand now. This thing must be destroyed.,我一直怨恨着你，但现在我明白了。这个东西必须被毁掉。,SUBTITLES
+aria0_5,That's right. And only I know how to do it.,是的，并且只有我知道应该怎么做。,SUBTITLES
+aria1_1,"Before he betrayed me, he told me the location of the shrine.",NecroDancer背叛我之前告诉我了圣陵的位置。,SUBTITLES
+aria1_2,No doubt just to buy himself more time.Let's end this.,他只是为了给自己争取更多时间。让我来结束这一切吧。,SUBTITLES
+aria2_1,"Octavian was once a bard, struggling to be noticed.",Octavian曾经是一名吟游诗人，他努力想获得别人关注。,SUBTITLES
+aria2_2,On his travels he stumbled upon the solution to his troubles.,在他的旅途中，他偶然发现了能够解决他这个问题的办法,SUBTITLES
+aria3_1,"Centuries ago, Octavian fled to the crypt and amassed an undead army.",几个世纪前，Octavian逃到了这个地下城并组建了一支不死大军。,SUBTITLES
+aria3_2,"But the first time I found the crypt, there were no monsters.",但我第一次找到这里时，这里一只怪物也没有。,SUBTITLES
+aria3_3,"After hundreds of years without sleep, the bard had grown weary.",经历了数百年无休止的演奏，吟游诗人早已厌倦了这一切。,SUBTITLES
+aria3_4,"He stopped playing, and so he died.The Lute was lost to legend.",他停止了弹琴，然后死掉了。鲁特琴也不知所踪。,SUBTITLES
+aria4_1,"When I came back, I raised him.",当我回来的时候，我唤醒了他。,SUBTITLES
+aria4_2,"Octavian, I know who you are. We need to destroy this lute. It was not meant for mortal hands!",Octavian，我知道你是谁。我们得摧毁这把鲁特琴，它不是凡人所能驾驭的！,SUBTITLES
+aria4_3,You're right. I will sacrifice myself to destroy it.,你说得对。我愿意牺牲自己摧毁它。,SUBTITLES
+aria4_4,I can't trust anyone else with this.,这件事我不能相信任何人。,SUBTITLES
+aria4_5,I have already been cursed. Let me atone for what I have done.,我已经被诅咒了。让我…弥补我犯下的错误吧。,SUBTITLES
+aria4_6,I was a fool.,我真是太愚蠢了。,SUBTITLES
+aria5_1,Finally I've made amends.,最后我终于得以赎罪了…,SUBTITLES
+aria5_2,"Everything comes to an end, my daughter. But for you and your family, not today.",一切都结束了，我的女儿。但对于你和你的家人而言，并不是现在。,SUBTITLES
 cadence0_1,They told me I was too young.,他们说我还太年轻。,SUBTITLES
 cadence0_2,They told me I needed more training.,他们说我还需要锻炼。,SUBTITLES
 cadence0_3,I told them to drop dead!,我告诉他们下地狱吧！,SUBTITLES
@@ -1687,7 +1687,7 @@ cadence2_1,Mom died when I was only seven. I heard Dad and Uncle Eli arguing aft
 cadence2_2,"Now I have no choice, Eli. I have to find the Golden Lute.",现在我别无选择了，Eli。我必须得去找到那把金鲁特琴。,SUBTITLES
 cadence2_3,And abandon your child?,然后丢下你的孩子不管？,SUBTITLES
 cadence2_4,"With these notes, it shouldn't take long to find…",有了这些记载上的东西，应该不会需要太长时间的…,SUBTITLES
-cadence2_5,What was so important about golden loot?,为什么“金路特勤”看上去这么重要？,SUBTITLES
+cadence2_5,What was so important about golden loot?,"为什么""金鲁特琴""对你这么重要？",SUBTITLES
 cadence3_1,We were so happy together. Until my mother got sick…,我们在一起生活的非常幸福快乐，直到我的母亲患病之后…,SUBTITLES
 cadence3_2,"I just wanna help you, Melody. Can't you see that?",我只是想帮你治好你的病，Melody。你知道吗？,SUBTITLES
 cadence3_3,"There's a reason my mother took that thing away, Dorian. Don't go!",这就是为什么我母亲带着那把琴离开了，Dorian。别去！,SUBTITLES
@@ -1696,40 +1696,40 @@ cadence4_1,Dad?!?!,父亲？！,SUBTITLES
 cadence4_2,"Cadence, I'm sorry! I was under his spell…",我很抱歉…我被法术迷惑了！,SUBTITLES
 cadence4_3,Leaving so soon? I guess you don't have the HEART to face me!,不久后就能离开这？我想你们根本就没有信心来面对我！,SUBTITLES
 cadence4_4,"I think I know how to defeat him, Cadence. But we'll have to work together. Follow my lead.",我觉得我知道应该如何击败他，Cadence。但是我们必须同心协力。来，听我指挥。,SUBTITLES
-cadence5_1,All along it was a golden lute you were after. But why?,,SUBTITLES
-cadence5_2,You're about to find out.,,SUBTITLES
-melody0_1,They brought me back using the power of the Golden Lute.,,SUBTITLES
-melody0_2,But we soon discovered that the Lute has its restrictions.,,SUBTITLES
-melody0_3,"To stay alive, we must keep playing.",,SUBTITLES
-melody0_4,"And the longer we play, the more it robs us of our humanity.",,SUBTITLES
-melody0_5,But I know something about the crypt that they don't. And now I need answers.,,SUBTITLES
-melody1_1,It was the same plague that had come through our village when I was a child.,,SUBTITLES
-melody1_2,Dorian knew the stories.,,SUBTITLES
-melody1_3,I just need to find the Golden Lute. I can save you!,,SUBTITLES
-melody1_4,"I could see the greed in his eyes, behind the desperation. It was just like before…",,SUBTITLES
-melody2_1,"My mother left us to get rid of the Lute, just like she left us to find it.",,SUBTITLES
-melody2_2,"And now I've inherited her burden, but I'll be damned if I'm going to pass it on to my daughter.",,SUBTITLES
-melody3_1,The plague had been through the village when I was young. Mom healed the people who were dying.,,SUBTITLES
-melody3_2,But they turned against her. They wanted the power of the Lute for themselves.,,SUBTITLES
-melody3_3,It's not the Lute that's cursed. It's us.,,SUBTITLES
-melody4_1,"You're Octavian, aren't you? The bard who sought immortality long ago.",,SUBTITLES
-melody4_2,"I am, and who are you... besides a thief?",,SUBTITLES
-melody4_3,"I am Melody, a bard as you once were. I seek to destroy this accursed lute.",,SUBTITLES
-melody4_4,You want to destroy it?! The Lute is MINE!,,SUBTITLES
-melody4_5,"But I have the Lute, Octavian, and if I stop playing, we'll both die.",,SUBTITLES
-melody4_6,Tell me everything you know.,,SUBTITLES
-melody4_7,I... WILL... NOT!!!!,,SUBTITLES
-melody5_1,Stop! Get away from me!,,SUBTITLES
-melody5_2,What?!,,SUBTITLES
-melody5_3,Mother!! Is that you?!,,SUBTITLES
-necrodancer1,Curse you!,,SUBTITLES
-necrodancer2,Give me that lute!,,SUBTITLES
-necrodancer3,The lute is mine!,,SUBTITLES
-necrodancer4,"Try again! Try again, my pets… I find this most amusing.",,SUBTITLES
-necrodancer5,Try again. Ifind this most amusing!,,SUBTITLES
-tutorial1,"If I'm gonna survive this, I'll have to remember what eli taught me",,SUBTITLES
-tutorial2,"Every opponent was a predictable pattern, he daid. Lean that pattern and you won't suffer so much as a scratch.",,SUBTITLES
-tutorial3,"That green guy didn't move al all, and this blue one jus moves up and then down so if I attack him from the side, I'll never get hurt.",,SUBTITLES
-tutorial4,"Abroadsword! Not as sharp as I'm used to, but I bet it can still take out 3 enemies in one shot.",,SUBTITLES
-tutorial5,"Looks like those skeletons put their hands in the air when they're about to jump. If I'm in the waywhen they move ,it's gonna hurt.",,SUBTITLES
-tutorial6,"That trap is mostly harmless, but eli warned me of deadlier traps to come.",,SUBTITLES
+cadence5_1,All along it was a golden lute you were after. But why?,这就是你一直以来需找的金鲁特琴…但为什么？,SUBTITLES
+cadence5_2,You're about to find out.,你马上就会知道的。,SUBTITLES
+melody0_1,They brought me back using the power of the Golden Lute.,他们用金鲁特琴的力量救活了我。,SUBTITLES
+melody0_2,But we soon discovered that the Lute has its restrictions.,但我们很快就发现，鲁特琴的力量也不是万能的。,SUBTITLES
+melody0_3,"To stay alive, we must keep playing.",为了活下来，我必须不停的弹奏它。,SUBTITLES
+melody0_4,"And the longer we play, the more it robs us of our humanity.",但随着我们的弹奏，它会不断剥夺我们的人性。,SUBTITLES
+melody0_5,But I know something about the crypt that they don't. And now I need answers.,但我知道关于这个地下城的一些他们父女俩不知道的事。所以现在我需要前去寻找答案。,SUBTITLES
+melody1_1,It was the same plague that had come through our village when I was a child.,当我还是个孩子的时候，同样的瘟疫曾席卷了整个村子。,SUBTITLES
+melody1_2,Dorian knew the stories.,Dorian知道这些事情。,SUBTITLES
+melody1_3,I just need to find the Golden Lute. I can save you!,只要找到了金鲁特琴，我就能拯救你！,SUBTITLES
+melody1_4,"I could see the greed in his eyes, behind the desperation. It was just like before…",我能看出他绝望的眼神中隐藏着贪婪，就像以前一样…,SUBTITLES
+melody2_1,"My mother left us to get rid of the Lute, just like she left us to find it.",我的母亲带着琴离开了我们并让我们摆脱了这件事，就像她离开我们去找寻找鲁特琴一样。,SUBTITLES
+melody2_2,"And now I've inherited her burden, but I'll be damned if I'm going to pass it on to my daughter.",而现在我已经继承了她身上的担子，但如果我把这个担子交给我的女儿，我将会背负着深深的罪恶感。,SUBTITLES
+melody3_1,The plague had been through the village when I was young. Mom healed the people who were dying.,瘟疫在我小的时候就在村子里蔓延了。母亲能治愈那些因瘟疫将死之人。,SUBTITLES
+melody3_2,But they turned against her. They wanted the power of the Lute for themselves.,但他们转过头来对付她。他们想夺取琴的力量。,SUBTITLES
+melody3_3,It's not the Lute that's cursed. It's us.,这不是琴被诅咒了，而是我们。,SUBTITLES
+melody4_1,"You're Octavian, aren't you? The bard who sought immortality long ago.",你就是Octavian对吗？在很久以前寻求着不朽的吟游诗人。,SUBTITLES
+melody4_2,"I am, and who are you... besides a thief?",是我，但你是谁…如果小偷不是你的名字,SUBTITLES
+melody4_3,"I am Melody, a bard as you once were. I seek to destroy this accursed lute.",我叫Melody，和曾经的你一样，一个吟游诗人。我在试图毁掉这把该死的琴。,SUBTITLES
+melody4_4,You want to destroy it?! The Lute is MINE!,你想毁掉它？！琴是我的！,SUBTITLES
+melody4_5,"But I have the Lute, Octavian, and if I stop playing, we'll both die.",但是现在琴在我手上，Octavian，如果我停下演奏，我俩都会死掉。,SUBTITLES
+melody4_6,Tell me everything you know.,告诉我你知道的一切！,SUBTITLES
+melody4_7,I... WILL... NOT!!!!,绝…不！,SUBTITLES
+melody5_1,Stop! Get away from me!,不！离我远点！！,SUBTITLES
+melody5_2,What?!,怎么回事？！,SUBTITLES
+melody5_3,Mother!! Is that you?!,母亲…是你吗？！,SUBTITLES
+necrodancer1,Curse you!,诅咒你！,SUBTITLES
+necrodancer2,Give me that lute!,把琴给我！,SUBTITLES
+necrodancer3,The lute is mine!,它是我的！,SUBTITLES
+necrodancer4,"Try again! Try again, my pets… I find this most amusing.",再来！再来，我的宠物…我我觉得这非常有趣。,SUBTITLES
+necrodancer5,Try again. Ifind this most amusing!,再来！我觉得这非常有趣。,SUBTITLES
+tutorial1,"If I'm gonna survive this, I'll have to remember what eli taught me",如果我想在这里生存下来，我必须记住Eli叔叔教我的东西,SUBTITLES
+tutorial2,"Every opponent was a predictable pattern, he daid. Lean that pattern and you won't suffer so much as a scratch.",他说每一个敌人的行为都有可预测的模式，熟知这种模式可以避免遭受攻击,SUBTITLES
+tutorial3,"That green guy didn't move al all, and this blue one jus moves up and then down so if I attack him from the side, I'll never get hurt.",那个绿色的家伙根本不会动，蓝色的家伙只会上下跳动。如果我从侧面攻击，他们根本伤不到我。,SUBTITLES
+tutorial4,"Abroadsword! Not as sharp as I'm used to, but I bet it can still take out 3 enemies in one shot.",一把阔剑！虽然不如我以前用的锋利，但我打赌它仍然能一次带走3个敌人。,SUBTITLES
+tutorial5,"Looks like those skeletons put their hands in the air when they're about to jump. If I'm in the waywhen they move ,it's gonna hurt.",看起来那些骷髅在移动前会把手举起来，如果被他们撞上我会受到伤害。,SUBTITLES
+tutorial6,"That trap is mostly harmless, but eli warned me of deadlier traps to come.",这个陷阱基本上是无害的，但是Eli叔叔警告我终将会有更致命的陷阱。,SUBTITLES

@@ -53,12 +53,12 @@
 <string id="64" xOff="12.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="Daily Challenge" image="localization/lobby_dailychallenge.png"/>
 <string id="65" xOff="12.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="LOCAL CO-OP" image="localization/lobby_localcoop.png"/>
 <string id="66" xOff="12.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="SINGLE PLAYER" image="localization/lobby_singleplayer.png"/>
-<string id="67" xOff="28.75" yOff="3.25" scale="0.5" fontPixelHeight="6" english="Zone 1 completed. Zone 2 unlocked!" image="localization/lobby_zone1complete.png"/>
-<string id="68" xOff="28.75" yOff="3.25" scale="0.5" fontPixelHeight="6" english="Zone 2 completed. Zone 3 unlocked!" image="localization/lobby_zone2complete.png"/>
-<string id="69" xOff="28.75" yOff="3.25" scale="0.5" fontPixelHeight="6" english="Zone 3 completed. Zone 4 unlocked!" image="localization/lobby_zone3complete.png"/>
-<string id="70" xOff="28.75" yOff="3.25" scale="0.5" fontPixelHeight="6" english="Zone 4 completed. Zone 3 unlocked!" image="localization/lobby_zone4complete_aria.png"/>
-<string id="71" xOff="28.75" yOff="3.25" scale="0.5" fontPixelHeight="6" english="Zone 3 completed. Zone 2 unlocked!" image="localization/lobby_zone3complete_aria.png"/>
-<string id="72" xOff="28.75" yOff="3.25" scale="0.5" fontPixelHeight="6" english="Zone 2 completed. Zone 1 unlocked!" image="localization/lobby_zone2complete_aria.png"/>
+<string id="67" xOff="30.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="Zone 1 completed. Zone 2 unlocked!" image="localization/lobby_zone1complete.png"/>
+<string id="68" xOff="30.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="Zone 2 completed. Zone 3 unlocked!" image="localization/lobby_zone2complete.png"/>
+<string id="69" xOff="30.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="Zone 3 completed. Zone 4 unlocked!" image="localization/lobby_zone3complete.png"/>
+<string id="70" xOff="30.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="Zone 4 completed. Zone 3 unlocked!" image="localization/lobby_zone4complete_aria.png"/>
+<string id="71" xOff="30.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="Zone 3 completed. Zone 2 unlocked!" image="localization/lobby_zone3complete_aria.png"/>
+<string id="72" xOff="30.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="Zone 2 completed. Zone 1 unlocked!" image="localization/lobby_zone2complete_aria.png"/>
 <string id="73" xOff="15.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="DUNGEON MASTER" image="localization/lobby_dungeonmaster.png"/>
 <string id="74" xOff="34.75" yOff="3.25" scale="0.5" fontPixelHeight="6" english="FIND ME IN ZONE 1!" image="localization/lobby_dungeonmasterhint.png"/>
 <string id="75" xOff="39.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="These items will show up in chests!" image="localization/lobby_dungeonmasterexplain.png"/>
@@ -85,6 +85,8 @@
 <string id="99" xOff="30.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="(NON-ALL ZONES) item pool?" image="localization/lobby_janitorexplain2.png"/>
 <string id="100" xOff="12.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="DIAMOND DEALER" image="localization/lobby_diamonddealer.png"/>
 <string id="101" xOff="34.75" yOff="3.25" scale="0.5" fontPixelHeight="6" english="FIND ME IN ZONE 2!" image="localization/lobby_diamonddealerhint.png"/>
+<string id="102" xOff="36.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="Take these on your" image="localization/lobby_diamonddealerexplain1.png"/>
+<string id="103" xOff="27.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="NEXT (NON-ALL ZONES) run!" image="localization/lobby_diamonddealerexplain2.png"/>
 <string id="104" xOff="18.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="RANDOM" image="localization/characterselect_random.png"/>
 <string id="105" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="CHARACTER" image="NONE"/>
 <string id="106" xOff="15.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="ALL CHARS" image="localization/characterselect_allchars.png"/>
@@ -500,6 +502,7 @@
 <string id="560" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="AUTOMATIC FREEZE" image="localization/hint_automaticfreeze.png"/>
 <string id="562" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="FIND BETTER ITEMS" image="localization/hint_findbetteritems.png"/>
 <string id="564" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="+2 DMG AT LOW HEALTH" image="localization/hint_2dmgatlowhealth.png"/>
+<string id="565" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="+1 DMG, KILL DASH" image="localization/hint_1dmgkilldash.png"/>
 <string id="566" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="+1 DAMAGE, MORE ENEMIES" image="localization/hint_1dmgmoreenemies.png"/>
 <string id="567" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="+1 HEART, FEWER ENEMIES" image="localization/hint_1heartfewerenemies.png"/>
 <string id="568" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="MORE POWERFUL SPELLS" image="localization/hint_morepowerfulspells.png"/>
@@ -977,7 +980,7 @@
 <string id="3044" xOff="18.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="SKELETON KNIGHT" image="localization/training_blackskeletonknight2.png"/>
 <string id="3045" xOff="9.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="FIRE ELEMENTAL" image="localization/training_fireelemental.png"/>
 <string id="3046" xOff="9.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="ICE ELEMENTAL" image="localization/training_iceelemental.png"/>
-<string id="3047" xOff="9.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="GOBLIN" image="localization/training_goblin.png"/>
+<string id="3047" xOff="15.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="GOBLIN" image="localization/training_goblin.png"/>
 <string id="3048" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="GRAY" image="NONE"/>
 <string id="3049" xOff="15.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="GOBLIN" image="localization/training_graygoblin2.png"/>
 <string id="3050" xOff="9.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="FIRE BEETLE" image="localization/training_firebeetle.png"/>
@@ -1007,8 +1010,8 @@
 <string id="3074" xOff="12.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="BLADEMASTER" image="localization/training_apprenticeblademaster2.png"/>
 <string id="3075" xOff="12.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="BLADEMASTER" image="localization/training_blademaster.png"/>
 <string id="3076" xOff="12.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="HARPY" image="localization/training_harpy.png"/>
-<string id="3077" xOff="9.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="GOBLIN" image="localization/training_goblinbomber1.png"/>
-<string id="3078" xOff="9.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="BOMBER" image="localization/training_goblinbomber2.png"/>
+<string id="3077" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="GOBLIN" image="NONE"/>
+<string id="3078" xOff="18.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="BOMBER" image="localization/training_goblinbomber2.png"/>
 <string id="3079" xOff="6.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="SPIDER" image="localization/training_spider.png"/>
 <string id="3080" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="GOBLIN" image="NONE"/>
 <string id="3081" xOff="15.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="SENTRY" image="localization/training_goblinsentry2.png"/>
