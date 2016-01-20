@@ -1,6 +1,6 @@
 ﻿<strings>
 <string id="2" xOff="18.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="COIN MULTIPLIER LOST" image="localization/game_coinmultiplierlost.png"/>
-<string id="3" xOff="12.25" yOff="-3" scale="0.5" fontPixelHeight="6" english="LOADING..." image="localization/game_loading.png"/>
+<string id="3" xOff="0" yOff="-3" scale="0.5" fontPixelHeight="6" english="LOADING..." image="localization/game_loading.png"/>
 <string id="4" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="THE LOCAL SAVE DATA DOES NOT" image="localization/options_savedatamismatch1.png"/>
 <string id="5" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="MATCH THE STEAM CLOUD SAVE." image="NONE"/>
 <string id="6" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="WHICH VERSION WOULD YOU LIKE TO KEEP?" image="localization/options_savedatamismatch3.png"/>
@@ -36,6 +36,7 @@
 <string id="44" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="Use the 'character select'" image="NONE"/>
 <string id="45" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="staircase in the lobby" image="localization/character_unlock3.png"/>
 <string id="46" xOff="0" yOff="0" scale="1" fontPixelHeight="12" english="TO TRY THIS CHARACTER!" image="NONE"/>
+<string id="49" xOff="21.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="USE ALL WALLS TO YOUR ADVANTAGE!" image="localization/hint_usewalls.png"/>
 <string id="50" xOff="6.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="Tutorial" image="localization/lobby_tutorial.png"/>
 <string id="51" xOff="7.75" yOff="3.25" scale="0.5" fontPixelHeight="6" english="Zone 1" image="localization/lobby_zone1.png"/>
 <string id="52" xOff="7.75" yOff="3.25" scale="0.5" fontPixelHeight="6" english="Zone 2" image="localization/lobby_zone2.png"/>
@@ -86,7 +87,7 @@
 <string id="100" xOff="12.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="DIAMOND DEALER" image="localization/lobby_diamonddealer.png"/>
 <string id="101" xOff="34.75" yOff="3.25" scale="0.5" fontPixelHeight="6" english="FIND ME IN ZONE 2!" image="localization/lobby_diamonddealerhint.png"/>
 <string id="102" xOff="36.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="Take these on your" image="localization/lobby_diamonddealerexplain1.png"/>
-<string id="103" xOff="27.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="NEXT (NON-ALL ZONES) run!" image="localization/lobby_diamonddealerexplain2.png"/>
+<string id="103" xOff="30.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="NEXT (NON-ALL ZONES) run!" image="localization/lobby_diamonddealerexplain2.png"/>
 <string id="104" xOff="18.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="RANDOM" image="localization/characterselect_random.png"/>
 <string id="105" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="CHARACTER" image="NONE"/>
 <string id="106" xOff="15.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="ALL CHARS" image="localization/characterselect_allchars.png"/>
@@ -241,19 +242,19 @@
 <string id="291" xOff="12.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="ENCHANT WEAPON" image="localization/hint_enchantweapon2.png"/>
 <string id="292" xOff="6.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="NEED" image="localization/hint_need2.png"/>
 <string id="293" xOff="18.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="(BLOOD MAGIC)" image="localization/hint_bloodmagic.png"/>
-<string id="300" xOff="45.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="GIVE BLOOD, GET BLOOD WEAPON" image="localization/hint_shrineofblood2.png"/>
-<string id="301" xOff="21.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="TURNS OUT THE LIGHTS" image="localization/hint_shrineofdarkness2.png"/>
-<string id="302" xOff="51.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="ALL ITEMS BECOME GLASS" image="localization/hint_shrineofglass2.png"/>
-<string id="303" xOff="45.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="LOSE ITEMS, GAIN HEALTH" image="localization/hint_shrineofpeace2.png"/>
-<string id="304" xOff="69.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="ITEMS BECOME OBSIDIAN, IRREGULAR RHYTHM" image="localization/hint_shrineofrhythm2.png"/>
-<string id="305" xOff="42.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="GAIN ITEMS, SLOWLY LOSE HEALTH" image="localization/hint_shrineofrisk2.png"/>
-<string id="306" xOff="33.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="REQUIRES SACRIFICES" image="localization/hint_shrineofsacrifice2.png"/>
-<string id="307" xOff="51.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="GAIN SHOVEL, BIGGER LEVELS" image="localization/hint_shrineofspace2.png"/>
-<string id="308" xOff="48.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="GAIN ITEMS, TOUGHER ENEMIES" image="localization/hint_shrineofwar2.png"/>
-<string id="309" xOff="42.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="GAIN WEAPON, DON'T TURN BACK" image="localization/hint_shrineofnoreturn2.png"/>
-<string id="310" xOff="27.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="BECOME INCORPOREAL" image="localization/hint_shrineofphasing2.png"/>
-<string id="311" xOff="27.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="REWARDS SPEED, PENALIZES SLOTH" image="localization/hint_shrineofpace2.png"/>
-<string id="312" xOff="33.25" yOff="3.25" scale="0.5" fontPixelHeight="6" english="WIN ITEMS, IF YOU'RE LUCKY" image="localization/hint_shrineofchance2.png"/>
+<string id="300" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="GIVE BLOOD, GET BLOOD WEAPON" image="localization/hint_shrineofblood2.png"/>
+<string id="301" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="TURNS OUT THE LIGHTS" image="localization/hint_shrineofdarkness2.png"/>
+<string id="302" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="ALL ITEMS BECOME GLASS" image="localization/hint_shrineofglass2.png"/>
+<string id="303" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="LOSE ITEMS, GAIN HEALTH" image="localization/hint_shrineofpeace2.png"/>
+<string id="304" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="ITEMS BECOME OBSIDIAN, IRREGULAR RHYTHM" image="localization/hint_shrineofrhythm2.png"/>
+<string id="305" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="GAIN ITEMS, SLOWLY LOSE HEALTH" image="localization/hint_shrineofrisk2.png"/>
+<string id="306" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="REQUIRES SACRIFICES" image="localization/hint_shrineofsacrifice2.png"/>
+<string id="307" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="GAIN SHOVEL, BIGGER LEVELS" image="localization/hint_shrineofspace2.png"/>
+<string id="308" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="GAIN ITEMS, TOUGHER ENEMIES" image="localization/hint_shrineofwar2.png"/>
+<string id="309" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="GAIN WEAPON, DON'T TURN BACK" image="localization/hint_shrineofnoreturn2.png"/>
+<string id="310" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="BECOME INCORPOREAL" image="localization/hint_shrineofphasing2.png"/>
+<string id="311" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="REWARDS SPEED, PENALIZES SLOTH" image="localization/hint_shrineofpace2.png"/>
+<string id="312" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="WIN ITEMS, IF YOU'RE LUCKY" image="localization/hint_shrineofchance2.png"/>
 <string id="314" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="+1 BLACK CHEST PER RUN" image="localization/item_additionalblackchest.png"/>
 <string id="315" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="+1 RED CHEST PER RUN" image="localization/item_additionalredchest.png"/>
 <string id="316" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="+1 PURPLE CHEST PER RUN" image="localization/item_additionalpurplechest.png"/>
@@ -500,7 +501,9 @@
 <string id="558" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="REVEAL DUNGEON MINIMAP" image="localization/hint_revealdungeonminimap.png"/>
 <string id="559" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="SAVES YOUR LIFE" image="localization/hint_savesyourlife.png"/>
 <string id="560" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="AUTOMATIC FREEZE" image="localization/hint_automaticfreeze.png"/>
+<string id="561" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="REWARDS OVEREATING, ONCE" image="localization/hint_rewardsovereatingonce.png"/>
 <string id="562" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="FIND BETTER ITEMS" image="localization/hint_findbetteritems.png"/>
+<string id="563" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="WARDS OFF SPIRITS" image="localization/hint_wardsoffspirits.png"/>
 <string id="564" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="+2 DMG AT LOW HEALTH" image="localization/hint_2dmgatlowhealth.png"/>
 <string id="565" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="+1 DMG, KILL DASH" image="localization/hint_1dmgkilldash.png"/>
 <string id="566" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="+1 DAMAGE, MORE ENEMIES" image="localization/hint_1dmgmoreenemies.png"/>
@@ -511,6 +514,7 @@
 <string id="571" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="MORE GOLD, AUTO GOLD PICKUP" image="localization/hint_moregoldautogoldpickup.png"/>
 <string id="572" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="HEALS EACH LEVEL" image="localization/hint_healseachlevel.png"/>
 <string id="573" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="AUTOMATIC SHIELD" image="localization/hint_automaticshield.png"/>
+<string id="574" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="+ ALL" image="localization/hint_all.png"/>
 <string id="575" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="DAMAGE NON-FLYING ENEMIES" image="localization/hint_damagenonflyingenemies.png"/>
 <string id="576" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="SCARE ENEMIES AWAY" image="localization/hint_scareenemiesaway.png"/>
 <string id="577" xOff="0" yOff="0" scale="0.5" fontPixelHeight="6" english="HORIZONTAL FIRE BLAST" image="localization/hint_horizontalfireblast.png"/>
